@@ -1,0 +1,26 @@
+chr12	1725
+chr15	1009
+chr9	1382
+chr2	2148
+chrX	646
+chr18	507
+chr4	1262
+chr19	2816
+chrY	3
+chr6	1965
+chr21	436
+chr11	2182
+chr13	604
+chr10	1364
+chr16	1425
+chr8	1065
+chr22	785
+chr7	2107
+chr20	826
+chr3	1850
+chr17	1812
+chr1	3303
+chr14	1274
+chr5	1282
+
+Total runtime: 6.90 seconds
