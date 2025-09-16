@@ -1,0 +1,22 @@
+Top 20 Features by Absolute Logistic Regression Coefficient:
+
+Feature: 14928, Importance (Coefficient): -0.0184
+Feature: 26166, Importance (Coefficient): -0.0162
+Feature: 13613, Importance (Coefficient): 0.0153
+Feature: 6292, Importance (Coefficient): 0.0152
+Feature: 6789, Importance (Coefficient): 0.0149
+Feature: 37967, Importance (Coefficient): -0.0145
+Feature: 18612, Importance (Coefficient): 0.0141
+Feature: 15872, Importance (Coefficient): -0.0140
+Feature: 3249, Importance (Coefficient): -0.0135
+Feature: 47248, Importance (Coefficient): -0.0134
+Feature: 46476, Importance (Coefficient): -0.0133
+Feature: 4478, Importance (Coefficient): -0.0129
+Feature: 20872, Importance (Coefficient): 0.0128
+Feature: 13614, Importance (Coefficient): -0.0125
+Feature: 828, Importance (Coefficient): 0.0123
+Feature: 33016, Importance (Coefficient): 0.0122
+Feature: 45366, Importance (Coefficient): -0.0122
+Feature: 37966, Importance (Coefficient): -0.0118
+Feature: 8142, Importance (Coefficient): -0.0114
+Feature: 19488, Importance (Coefficient): -0.0113
