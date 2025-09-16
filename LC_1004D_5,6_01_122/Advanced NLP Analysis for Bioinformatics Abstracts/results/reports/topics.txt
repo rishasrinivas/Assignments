@@ -1,0 +1,5 @@
+Topic 0: 0.010*"cancer" + 0.008*"CRC" + 0.008*"University" + 0.006*"patients" + 0.006*"Hospital" + 0.005*"interest" + 0.005*"China" + 0.005*"Medical" + 0.005*"Cancer" + 0.005*"colorectal"
+Topic 1: 0.007*"University" + 0.007*"cancer" + 0.005*"interest" + 0.005*"patients" + 0.004*"Cancer" + 0.004*"colorectal" + 0.004*"China" + 0.004*"Hospital" + 0.004*"Tianjin" + 0.004*"study"
+Topic 2: 0.010*"University" + 0.007*"cancer" + 0.007*"patients" + 0.006*"CRC" + 0.006*"China" + 0.005*"interest" + 0.005*"Medical" + 0.004*"Hospital" + 0.004*"study" + 0.004*"colorectal"
+Topic 3: 0.011*"cancer" + 0.010*"University" + 0.007*"Cancer" + 0.007*"CRC" + 0.006*"China" + 0.006*"Hospital" + 0.006*"de" + 0.006*"colorectal" + 0.006*"interest" + 0.005*"Research"
+Topic 4: 0.009*"University" + 0.008*"Medicine" + 0.008*"cancer" + 0.007*"Cancer" + 0.006*"Hospital" + 0.006*"Medical" + 0.005*"cell" + 0.005*"CRC" + 0.005*"Japan" + 0.004*"interest"

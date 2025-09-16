@@ -1,0 +1,4037 @@
+CRC: 350
+BACKGROUND: 31
+Surgery: 31
+KRAS: 28
+Oncology: 21
+EMT: 20
+Epidemiology: 19
+NCD: 19
+FL: 18
+SBRT: 17
+Colorectal Surgery: 16
+FIT: 16
+ICMJE: 14
+Baishideng Publishing Group Inc.: 14
+CT: 13
+Medical Oncology: 13
+≥: 13
+Wang: 12
+Li: 12
+Gastroenterology: 12
+TGF: 12
+ETBF: 12
+RNA: 11
+Fudan University: 11
+FCR: 11
+Cancer Institute Hospital: 10
+Yang: 10
+NIC: 10
+Translational Research: 10
+TNF: 9
+Chen: 9
+PFS: 9
+Exeter: 9
+Cancer Center: 9
+Pathology: 9
+Faculty of Medicine: 9
+CCA: 9
+CIN: 9
+AME Publishing Company: 9
+CSC: 9
+Shanxi Medical University: 9
+Jinzhong 030600: 9
+Japanese 
+Foundation for Cancer Research: 9
+BITC: 9
+MMR: 9
+WNT: 9
+Biostatistics, School of Public Health: 9
+Tianjin Medical University: 9
+KAIST: 8
+CI: 8
+ESD: 8
+The Second Affiliated Hospital: 8
+PIK3CA: 8
+IH: 8
+CRLM: 8
+TNKS: 8
+Int J Mol Sci: 8
+GI: 8
+IR: 8
+CME: 8
+Internal Medicine: 7
+endoscópica submucosa: 7
+HFD: 7
+MSI: 7
+IHC: 7
+Zhou: 7
+WTAP: 7
+PCC: 7
+Koto-ku: 7
+John Wiley & Sons Ltd.: 7
+BLM: 7
+PET/MR: 7
+PubMed: 6
+Department of Medicine: 6
+Radiation Oncology: 6
+Wu: 6
+State Key Laboratory: 6
+Elsevier B.V.: 6
+Mg: 6
+DCC: 6
+Sichuan University: 6
+Clin Med: 6
+Endocuff: 6
+University of Granada: 6
+CCE: 6
+EC: 6
+YO: 6
+GC-MS: 6
+JFCR: 6
+GC: 6
+HAIP: 6
+CL: 6
+Fucheng Road: 6
+SNCG: 6
+CSS: 6
+Federal University of Rio de Janeiro: 5
+Gao: 5
+AUC: 5
+Research Institute: 5
+Nursing: 5
+miR-1283: 5
+Gastrointestinal Surgery: 5
+Kaplan-Meier: 5
+EUS: 5
+XELIRI: 5
+xenograft: 5
+GSI: 5
+IC: 5
+National Research Centre: 5
+HDAC3: 5
+PTC: 5
+Elsevier Ltd: 5
+BBR: 5
+AstraZeneca: 5
+Medical Sciences: 5
+Tregs: 5
+UCLouvain: 5
+Colorectal Cancer: 5
+RCC: 5
+UTUC: 5
+CAR: 5
+ADI: 5
+NF: 5
+FP: 5
+CIBM: 5
+Department of Biochemistry & Molecular Biology: 5
+University Cancer Hospital & Institute: 5
+Fig: 5
+Madison: 4
+Cancer Research Institute: 4
+2025 Sep: 4
+Medical University: 4
+lncRNA-LOC152578: 4
+Iran University of Medical Sciences: 4
+Elsevier Inc.: 4
+the Russian Academy of Sciences: 4
+IPRMS: 4
+GSH: 4
+CAT: 4
+MDA: 4
+SOD: 4
+ELISA: 4
+Research 
+Institute: 4
+GeneCards: 4
+Guo: 4
+Cox: 4
+Clinical Research: 4
+Nanfang Hospital: 4
+Southern Medical University: 4
+SMAD4: 4
+Mayo Clinic: 4
+SLNM: 4
+BOGO: 4
+Harvard University: 4
+Shiraz University of Medical Sciences: 4
+BRAF: 4
+Wang Y(1: 4
+QLB: 4
+DDAbs: 4
+Zhongshan Hospital: 4
+The First Affiliated Hospital: 4
+MIS: 4
+DEI: 4
+PR China: 4
+Cancer: 4
+Yu: 4
+LLC: 4
+West China Hospital: 4
+Boehringer Ingelheim: 4
+Bristol Myers Squibb: 4
+APC: 4
+Yan'an Hospital Affiliated: 4
+Kunming Medical 
+University: 4
+Japanese Foundation for Cancer Research: 4
+Medtronic: 4
+FF: 4
+adenomas: 4
+Tianjin Union Medical Center: 4
+de novo: 4
+COL: 4
+CTC: 4
+Carlton Strs: 4
+Duarte: 4
+A.O.U. Città: 4
+Scienza di Torino: 4
+Pfizer: 4
+ECT: 4
+LR: 4
+PLK4: 4
+UGIE: 4
+Pharmacology, Center for Biomedical Research: 4
+GRANADA: 4
+Cell Biology, School of Basic Medical Sciences: 4
+Peking 
+University Health Science Center: 4
+PFAS: 4
+The Catholic University of Korea: 4
+Onsekiz Mart University: 4
+Bialystok: 4
+WI: 3
+Kim: 3
+Seoul National University: 3
+ECM: 3
+Ye: 3
+Yao: 3
+Changzheng Hospital: 3
+Xu: 3
+Guangzhou Medical University: 3
+Biomedical Sciences: 3
+Cleveland Clinic: 3
+MAIN: 3
+la vigilancia: 3
+Hangzhou Medical College: 3
+People's Hospital: 3
+University of Florida: 3
+Cancer Res: 3
+Liu C(1: 3
+PLoS: 3
+the Creative Commons Attribution License: 3
+National Cancer Center Hospital: 3
+Gastrointestinal Oncology: 3
+Studien: 3
+Cancer Institute: 3
+South Egypt Cancer Institute: 3
+IL-6: 3
+NF-κB: 3
+Tang: 3
+Zou: 3
+Agadir: 3
+MAR: 3
+CCK-8: 3
+CVD: 3
+Fudan University Shanghai Cancer Center: 3
+the First Affiliated Hospital: 3
+Hematology: 3
+Hematology-Oncology: 3
+Capital Medical 
+University: 3
+First Affiliated Hospital: 3
+Gannan Medical University 
+Ganzhou 341000: 3
+DCR: 3
+CEA: 3
+Dartmouth: 3
+ATG9B: 3
+AI: 3
+Sider Fusion AI Bot: 3
+Bethune International Peace Hospital: 3
+PLA: 3
+LST-NG-PD: 3
+Zibo Central Hospital: 3
+Wang S(1: 3
+Peking University Cancer Hospital & Institute: 3
+CLM: 3
+Nanjing Jiangbei Hospital: 3
+Yangzhou University: 3
+GLU: 3
+BUN: 3
+Pharmaceutics: 3
+Oxaliplatin: 3
+Herba Patriniae: 3
+Gifu University: 3
+Tohoku University: 3
+Sendai: 3
+Jiaotong University: 3
+Xi'an Jiaotong University: 3
+Bcl9@TP: 3
+Jeong: 3
+K: 3
+College of Pharmacy: 3
+Osaka Rosai Hospital: 3
+the Ethics Committee: 3
+Vascular Surgery: 3
+Zhejiang 
+University School of Medicine: 3
+EFS: 3
+Elsevier Ltd.: 3
+Vanderbilt University Medical Center: 3
+Peking Union Medical College: 3
+Springer Nature: 3
+TNM: 3
+Lipids Process Technology National & Local Joint Engineering 
+Laboratory,: 3
+Key Laboratory of Oilseeds Processing: 3
+Ministry of Agriculture: 3
+Rural Affairs: 3
+Hubei Key Laboratory of Lipid Chemistry and: 3
+RA: 3
+ALG/CMC/BBR-RA NPs: 3
+NCD Alliance: 3
+Eli Lilly: 3
+Roche: 3
+Merck: 3
+Ono Pharmaceutical: 3
+Daiichi Sankyo: 3
+MSD: 3
+Waterloo, Department of Mechanical and Mechatronics 
+Engineering: 3
+Waterloo: 3
+ON: 3
+N2L 3G1: 3
+Key Laboratory: 3
+Fujian Provincial Key Laboratory: 3
+Oriented Chemical Engineer: 3
+Fujian Key Laboratory: 3
+Fujian Normal University: 3
+NSAIDs: 3
+FOXP3: 3
+Scopus: 3
+takashi.akiyoshi@jfcr.or.jp: 3
+Pathology, Cancer Institute Hospital: 3
+Japanese Foundation: 3
+MST: 3
+G51: 3
+Okayama University: 3
+Okayama 700-8530: 3
+University of Tehran: 3
+Clinical Laboratory: 3
+Nankai 
+University: 3
+Traditional Chinese Medicine: 3
+Bufalin: 3
+PPV: 3
+NPV: 3
+Healthcare: 3
+SUNS: 3
+HRQOL: 3
+CT 06519: 3
+University of Sharjah: 3
+TEC: 3
+Radiotherapy: 3
+RAS: 3
+H. Lee: 3
+University of Turin: 3
+NeoPhore: 3
+Wake Forest University School of Medicine: 3
+Pathology Unit: 3
+MYC: 3
+Portuguese Oncology Institute of Porto: 3
+RCT: 3
+Zhengzhou University: 3
+Faculty of Science: 3
+Al-Azhar University: 3
+Caco-2: 3
+CFT: 3
+Abbott Vascular: 3
+Pi-Cardia Ltd: 3
+China Academy of Chinese Medical Sciences: 3
+TCR: 3
+Public Health and Infectious Diseases: 3
+Sapienza University: 3
+VEGF: 3
+College of Medicine: 3
+The Institute of Cancer Research: 3
+Department of Biochemistry: 3
+Molecular Biology, School of Basic Medical Sciences: 3
+HBP: 3
+Chinese Academy of Medical Sciences: 3
+Chemistry, Natural Products and Drug Research Laboratory: 3
+Cancer Med: 3
+Cancer Medicine: 3
+Ningbo University: 3
+PPIE: 3
+Begin Military Teaching Hospital: 3
+Istituto Nazionale: 3
+Honghui Hospital: 3
+Ann Surg Oncol: 2
+Clinical Medicine: 2
+Int J Colorectal Dis: 2
+Hartford HealthCare: 2
+Seoul National University Hospital: 2
+Brain Engineering: 2
+jungkyoon@kaist.ac.kr: 2
+Liu: 2
+University School of Medicine: 2
+Wang Z(#)(1: 2
+Qin: 2
+Wu Y(1: 2
+Zhang B(3: 2
+Naval Medical 
+University: 2
+ITT: 2
+Multivariate Cox: 2
+Qiu: 2
+Luo: 2
+the Affiliated Cancer Hospital: 2
+MHC: 2
+Exeter Medical School: 2
+EMBASE: 2
+Laboratory, Institute of Biophysics Carlos Chagas Filho: 2
+Immunology Laboratory: 2
+Institute of Microbiology Paulo de Góes: 2
+IMPG, Federal University of Rio de Janeiro: 2
+Gram: 2
+Dis Colon Rectum: 2
+Erkaya M: 2
+Surgery Institute: 2
+con respuesta casi: 2
+endoscópica 
+submucosa: 2
+un: 2
+Zhejiang Provincial People's Hospital: 2
+TCCA: 2
+JMIR Cancer: 2
+EBSCOhost: 2
+Xing: 2
+Kuang: 2
+Chinese Academy of Sciences: 2
+Seoul National University Bundang Hospital: 2
+Seoul National University College of Medicine: 2
+WSI: 2
+Saito: 2
+Endoscopy: 2
+Division: 2
+Gastroenterology and Hepatology,: 2
+Gastroenterology and Hepatology: 2
+Medical Statistics: 2
+Basic Medical Sciences: 2
+Norwegen: 2
+Inzidenz: 2
+Darmkrebs: 2
+Studie: 2
+Nutzen: 2
+Int J Clin Oncol: 2
+Japan Society of Clinical Oncology: 2
+Khon Kaen University: 2
+The Journal of Pathology: 2
+The Pathological Society of Great Britain: 2
+Assiut 
+University: 2
+ORR: 2
+Oncology Department: 2
+n=20: 2
+FABP4: 2
+Smad: 2
+MET: 2
+Irbid: 2
+Biological Sciences: 2
+Li X(1: 2
+Li Y(1: 2
+Tian: 2
+Liu J(1: 2
+Liu Y(2: 2
+Cui B(2: 2
+School of Public Health: 2
+Harbin Medical University Cancer Hospital: 2
+Immune: 2
+Xuzhou Medical University: 2
+NMDA: 2
+CRP IL-6: 2
+U/mL: 2
+Indonesian Medical Education: 2
+MTT: 2
+Lactococcus: 2
+Surgery, Faculty of Medicine: 2
+Padang: 2
+COX-2: 2
+Ding: 2
+Wang J: 2
+CC: 2
+Shanghai Medical College: 2
+SSRS: 2
+GEO: 2
+Mao: 2
+Yan: 2
+VDAC: 2
+Li J(1: 2
+Huang: 2
+Lu: 2
+oPC: 2
+RECIST: 2
+Brigham: 2
+Women's Hospital: 2
+Zhang Y(2: 2
+Beijing Friendship Hospital: 2
+ICG: 2
+Transl Res: 2
+OBJECTIVES: 2
+Porphyromonas: 2
+Parvimonas: 2
+Faecalibacterium: 2
+Serum: 2
+Liu W(1: 2
+Xue: 2
+Anorectal Surgery: 2
+Kim H: 2
+CF: 2
+Mol Biol Res Commun: 2
+Shiraz: 2
+Research Center: 2
+PCR: 2
+ATG: 2
+School of Medicine: 2
+Universidad de la República: 2
+Yazd: 2
+Cancer Biology: 2
+Interventional Treatment: 2
+TACE: 2
+Bevacizumab: 2
+Translational Center for Immunological Disorders: 2
+al: 2
+Cheng: 2
+The Second Hospital of Nanjing: 2
+Xiangya Hospital: 2
+Central South University: 2
+Beijing Anzhen Nanchong Hospital: 2
+Nanchong Central Hospital: 2
+3)Key Laboratory of Carcinogenesis and: 2
+Wang P(1: 2
+Affiliated Hospital: 2
+Nephrology: 2
+T4: 2
+CRE: 2
+Pharmacology and Toxicology: 2
+Front Pharmacol: 2
+Vázquez-Revuelta: 2
+Hospital Universitari de Bellvitge: 2
+HUB: 2
+AIT: 2
+Gifu: 2
+HDAC1: 2
+TGI: 2
+Zheng: 2
+Peking University: 2
+BC: 2
+Melbourne Hospital: 2
+VIC: 2
+TX: 2
+Deng: 2
+Liu Y(1: 2
+The First Affiliated Hospital of Dali University: 2
+Khan: 2
+Jazan University: 2
+Jazan: 2
+ADC: 2
+Kita-ku: 2
+Sakai: 2
+Biochem Biophys: 2
+NRF2: 2
+ETHICS: 2
+Gansu Provincial Central Hospital: 2
+Clin Colorectal Cancer: 2
+Sun Yat-sen University Cancer Center: 2
+Sun Yat-sen University: 2
+CPS: 2
+Feed Resources: 2
+Ministry of Agriculture and Rural 
+Affairs: 2
+Shandong Provincial Key Laboratory of Animal Nutrition and Efficient 
+Feeding,: 2
+Department of Animal Science: 2
+Shandong Agricultural University: 2
+Davis 
+Medical Center: 2
+Crit Rev Oncol Hematol: 2
+Zhang Y(1: 2
+Nanjing Normal University: 2
+TME: 2
+Medicine, Division of Epidemiology: 2
+Vanderbilt Epidemiology 
+Center: 2
+Vanderbilt University School of Medicine: 2
+Vanderbilt-Ingram Cancer 
+Center: 2
+Medicine, Division of Gastroenterology: 2
+UF Health Cancer Center: 2
+Lin: 2
+Peking Union Medical College Hospital: 2
+Chinese 
+Academy of Medical Sciences: 2
+Shuai Fu 
+Yuan: 2
+Dong Cheng District: 2
+Zhao: 2
+Teaching Hospital of Tianjin University of Traditional Chinese 
+Medicine: 2
+National Clinical Research Center: 2
+AKT: 2
+M. Skłodowska-Curie National Research Institute: 2
+Cancer Centre: 2
+Immunology: 2
+Genetics: 2
+NIPT: 2
+IDENTIFY: 2
+lymphomas: 2
+Colorectal Cancer Liver Metastasis: 2
+Cochrane Library: 2
+Herein: 2
+TEM: 2
+SEM: 2
+ROS: 2
+Sun: 2
+Sichuan Clinical Research Center: 2
+Cancer, Sichuan Cancer Hospital & Institute: 2
+Cancer Hospital of University of Electronic Science and Technology of: 2
+EFA: 2
+Lipo: 2
+Engineering Interdisciplinary Research Laboratory of Nursing & 
+Materials: 2
+Sichuan University/West China School of Nursing: 2
+Biotherapy, Oxidative Stress Research Center: 2
+Novo Nordisk: 2
+Viatris: 2
+Gastroenterology & Gastrointestinal Oncology: 2
+National Cancer 
+Center Hospital East: 2
+Hepatobiliary: 2
+Guardant Health: 2
+Shanxi Key Laboratory of Forensic Medicine: 2
+Bioscience and Technology: 2
+Vellore Institute of Technology: 2
+Tamil Nadu: 2
+Software Engineering: 2
+POC: 2
+SUMOylation: 2
+Shengli Clinical Medical College of Fujian Medical 
+University: 2
+Fujian Provincial Hospital: 2
+Fuzhou University Affiliated Provincial 
+Hospital: 2
+Chemistry and Materials Science: 2
+SVM: 2
+Pharmaceutical Sciences & Technology: 2
+Birla Institute: 2
+PET: 2
+Coxsackievirus B3: 2
+King Khalid University: 2
+BMI: 2
+Khomeini Hospital: 2
+Mazandaran University of Medical Sciences: 2
+Sari: 2
+TNT: 2
+NOM: 2
+SLR: 2
+MBS: 2
+Utah State University: 2
+TWD: 2
+ADR: 2
+SC: 2
+NSQIP: 2
+Zeff: 2
+T.D.: 2
+Biochemical Diagnostics, Medical University of Bialystok: 2
+Neurodegeneration Diagnostics, Medical University of Bialystok: 2
+IRCCS-CROB: 2
+Medical and Surgical Sciences: 2
+HT-29: 2
+MDR: 2
+College of Engineering: 2
+Tehran University of Medical Sciences: 2
+REG: 2
+Zhang: 2
+CRC progression: 2
+Systematic Review: 2
+Coppito: 2
+Background: 2
+SMD: 2
+Clinical Emergency Hospital of Bucharest: 2
+Surgery Department: 2
+Research Group: 2
+University of Valencia, Av: 2
+Valencia: 2
+Aarhus University Hospital: 2
+Roswell Park Comprehensive Cancer Center: 2
+Waldrup B(2: 2
+Velazquez-Villarreal: 2
+Integrative Translational Sciences: 2
+Beckman Research Institute: 2
+Hope Comprehensive Cancer Center: 2
+Hispanic/Latino: 2
+Huang Y(1: 2
+Yale School of Public Health: 2
+SVI: 2
+IQR: 2
+GSK: 2
+Janssen: 2
+PET-Technology Podolsk: 2
+BA: 2
+Department of Oncology: 2
+KRAS G12C: 2
+Pittsburgh Medical Center: 2
+Saarland University Medical Center: 2
+TFT: 2
+Viale Cappuccini: 2
+Ravenna: 2
+Universidad de Costa 
+Rica: 2
+Osaka Medical: 2
+Pharmaceutical University: 2
+Rotterdam: 2
+Rehabilitation: 2
+Shandong University: 2
+Investigación Biosanitaria de Granada: 2
+Instituto de Salud Carlos III: 2
+Biosanitaria de Granada: 2
+Microbiology Department: 2
+Aspergillus: 2
+HepG2: 2
+TTR: 2
+Medicine: 2
+Interventional Cardiology: 2
+MedStar Washington Hospital Center: 2
+Append Medical: 2
+Boston Scientific: 2
+Tianjin University of Traditional 
+Chinese Medicine: 2
+Yun zhu: 2
+Environ Int: 2
+Environmental Health and Engineering: 2
+Bloomberg School of 
+Public Health: 2
+Johns Hopkins University: 2
+Xiangya School of Medicine: 2
+Central 
+South University: 2
+BPA: 2
+2)Key Laboratory of Carcinogenesis and Translational Research: 2
+Peking University Cancer Hospital & 
+Institute: 2
+4)Key Laboratory of Carcinogenesis and: 2
+Ann Surg: 2
+Wolters Kluwer Health, Inc.: 2
+University of California San Diego: 2
+University of California: 2
+PD-L1: 2
+Yu Y(4: 2
+Key Laboratory of Glycoconjugates Research: 2
+Institutes of Biomedical Sciences: 2
+Xu J(8: 2
+Peking Union: 2
+pN2: 2
+Taizhou Hospital: 2
+ferahcomertonder@comu.edu.tr: 2
+Maria Skłodowska-Curie: 2
+Medical University of Białystok,: 2
+18F-FDG: 2
+Singapore General Hospital: 2
+The Chinese University of Hong Kong: 2
+Sha Tin: 2
+104 M-1: 2
+Saint 
+Mandé: 2
+Cancer Epidemiology: 2
+H. Lee Moffitt: 2
+Xi'an Jiaotong 
+University: 2
+CLL: 2
+Endoscopy Center: 2
+Hospital de Especialidades: 2
+Guayaquil 090514: 2
+Digestive Service: 2
+Hcy: 2
+FAD: 2
+Marzi S(1: 1
+Vidiri A(2: 1
+Grazi: 1
+Physics Laboratory: 1
+IRCCS Regina Elena National Cancer Institute: 1
+Diagnostic Imaging Department: 1
+IRCCS Regina Elena National 
+Cancer Institute: 1
+antonello.vidiri@ifo.it: 1
+Department of Experimental: 1
+DMSC: 1
+University of Florence, Florence, Italy: 1
+Simona Marzi: 1
+Gian Luca Grazi: 1
+Gohil S(1: 1
+D'Attilio: 1
+Vergara CM(3: 1
+Karlitz: 1
+Greene M(4): 1
+Medicine, University of Connecticut Health Center: 1
+HealthCare: 1
+Hartford Hospital: 1
+4)Exact Sciences Corporation: 1
+CFR § 46.104(d)(4: 1
+the US Health 
+Insurance Portability: 1
+CFR § 
+: 1
+S. Gohil: 1
+J.J. Karlitz: 1
+M. Greene: 1
+Exact Sciences Corporation: 1
+R. Paladiya: 1
+C.M. Vergara: 1
+Br J Cancer: 1
+Lee: 1
+Lee JH(#)(1: 1
+Kang J(2: 1
+Kim K(1: 1
+Cho: 1
+Song 
+SH(3: 1
+Kwon J(5: 1
+Park WY(7)(8: 1
+Park 
+JE(11)(12: 1
+Choi JK(15)(16: 1
+Bio and Brain Engineering: 1
+2)Graduate School of Medical Science and Engineering: 1
+Genomics Research Laboratory: 1
+National University: 1
+Molecular Medicine and Biopharmaceutical Sciences: 1
+Graduate 
+School of Convergence Science and Technology: 1
+Division of Cancer Data Science: 1
+National Cancer 
+Center: 1
+Biochemistry, College of Life Science and Technology: 1
+Yonsei 
+University: 1
+Genome Institute: 1
+Samsung Medical Center: 1
+School of Medical Science and Engineering: 1
+KAIST Institute of Translational Research: 1
+the Institutional Review 
+Board: 1
+Korea Advanced Institute of Science and Technology: 1
+the Severance Hospital: 1
+Yonsei University 
+College of Medicine: 1
+the Institutional Review Board of Seoul 
+National University Hospital: 1
+TKI: 1
+Liu Y(3: 1
+Taikang Xianlin Drum Tower: 1
+Medical School of Nanjing University: 1
+Signal Transduct Target: 1
+APICAL-CRC: 1
+Yuan LY(#)(1: 1
+Jiao XD(1: 1
+Liu K(1: 1
+Zhou WL(1: 1
+Qin WX(1: 1
+Sun L(1: 1
+Dai WP(1: 1
+Ling 
+Y(1: 1
+Chen SQ(1: 1
+Zhang YF(1: 1
+Duan XP(1: 1
+Zhong X(1: 1
+Zhai WX(1: 1
+Zhang DD(3: 1
+Gao N(3: 1
+Zang YS(4: 1
+Naval Medical University: 1
+3)D Medicines Inc.: 1
+doctorzangys@163.com: 1
+TRAEs: 1
+FLT: 1
+Jin: 1
+Yan S(1: 1
+Zhang F(1: 1
+Song Y(1: 1
+Zheng G(1: 1
+Liao D(3: 1
+Wei X(4: 1
+Institute of Cancer Research: 1
+2)The Afﬁliated Qingyuan Hospital: 1
+Qingyuan People's Hospital: 1
+3)Guangzhou Institute of Cancer Research: 1
+Key Laboratory of Oncology: 1
+Guangdong Provincial 
+Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center: 1
+smad2: 1
+TFAP4: 1
+CC BY-NC: 1
+BMJ Group: 1
+Winder R(2: 1
+Carter MD(3: 1
+Clark CE(4: 1
+Campbell J(5: 1
+Bearman: 1
+Neal R(8: 1
+Abel GA(8: 1
+Exeter, Medical School: 1
+General Practice: 1
+Primary Care: 1
+Devon: 1
+Setting Systematic: 1
+Cancer Rep: 1
+the Pre-Treatment Stage: 1
+Akbari A(2: 1
+Biotechnology: 1
+Development Research Center: 1
+Institute of Endocrinology: 1
+Cancer Charity: 1
+Cancer Reports: 1
+Wiley Periodicals LLC: 1
+Oliveira-Cruz: 1
+Carvalho-Barbosa N(1: 1
+Cortes 
+TN(1: 1
+Guimarães-Pinto K(2: 1
+Amorim da Costa AL(3: 1
+de Lima: 1
+Lourenço 
+TGB(5: 1
+Castro: 1
+Filardy AD(2: 1
+Colombo APV(5: 1
+de Souza 
+HSP(4: 1
+Takiya CM(6: 1
+Savio LEB(1: 1
+Coutinho-Silva R(8: 1
+Oral 
+Microbiology Laboratory: 1
+the University Hospital Clementino: 1
+Fraga Filho: 1
+University of Rio de Janeiro: 1
+Microbiology Laboratory: 1
+Arthur A. Dugoni School of Dentistry: 1
+University of the Pacific: 1
+Laboratory,: 1
+Institute of Biophysics Carlos Chagas Filho: 1
+Treg: 1
+Oct 1;68(10):1172-1182: 1
+Expanding Organ Preservation: 1
+Erozkan K: 1
+Karahan SN: 1
+Schabl L: 1
+Kessler H: 1
+Steele SR: 1
+Sommovilla J.
+
+Author: 1
+Video 
+Abstract: 1
+AMPLIACIN DE LA PRESERVACIN DE RGANOS EN EL CNCER RECTAL LOCALMENTE: 1
+Se recomienda: 1
+el periodo de 
+: 1
+El uso 
+selectivo de procedimientos de resección local: 1
+OBJETIVO: 1
+disección endoscópica submucosa en: 1
+DISEÑO: 1
+Estudio de cohorte: 1
+respuesta 
+casi completa o recidiva: 1
+INTERVENCIONES: 1
+Disección: 1
+la respuesta casi: 1
+el recidiva: 1
+Tasas de preservación de órganos: 1
+para obtener una respuesta casi: 1
+al recidiva: 1
+del tiempo de recidiva: 1
+El examen: 1
+patológico de las muestras: 1
+al 
+adenocarcinoma: 1
+observación después de la disección: 1
+el que: 1
+sin evidencia de enfermedad: 1
+LIMITACIONES: 1
+Diseño: 1
+reducido de 
+la muestra: 1
+El uso selectivo de la disección: 1
+para la preservación de órganos: 1
+Se necesitan ensayos: 1
+más 
+prolongado: 1
+su valor: 1
+Xu Q(1: 1
+Li S(2: 1
+Jiang Y(3: 1
+Center, Department of Hospital Infection Management and Preventive 
+Medicine: 1
+Critical Care Medicine: 1
+Nursing Department: 1
+Department of Colorectal 
+Surgery: 1
+SAEW: 1
+ICU: 1
+Preventive Cancer Care Communication: Systematic 
+Review: 1
+Raisa: 1
+Chen X(2: 1
+Bryan EG(3: 1
+Alpert JM(5: 1
+Lok: 1
+Fisher 
+CL(4: 1
+Thomas L(7): 1
+Krieger JL(8: 1
+Surgery, Division of Public Health: 1
+Washington University: 1
+Journalism and Communications, University of Florida: 1
+College of Arts and Science, University of Miami: 1
+Coral Gables: 1
+Health Outcomes: 1
+Biomedical Informatics: 1
+College of 
+Medicine, University of Florida: 1
+Clinic, Lerner College of Medicine: 1
+Computer and Information Science and Engineering: 1
+Herbert 
+Wertheim College of Engineering: 1
+Erie College of Osteopathic Medicine, College of Osteopathic Medicine: 1
+Bradenton: 1
+Department of Quantitative Health Sciences: 1
+Mayo 
+Clinic: 1
+Meta-Analyses: 1
+Embase: 1
+Mixed Methods Appraisal Tool: 1
+VHA: 1
+Iterative: 1
+Modality, Agency: 1
+Interactivity: 1
+Navigability: 1
+eHealth: 1
+Xiaobei Chen: 1
+Emma G Bryan: 1
+Carma L Bylund: 1
+Jordan M Alpert: 1
+Benjamin Lok: 1
+Carla L Fisher: 1
+Lyndsey Thomas: 1
+Janice L Krieger: 1
+Lai P(1: 1
+Hu J(2: 1
+Yin S(3: 1
+Guo S(1: 1
+Yu J(4: 1
+Liang D(2: 1
+Chen G(1: 1
+Luo Z(4: 1
+Lan P(1: 1
+Affiliated Hospital of Sun Yat-sen University: 1
+2)Sixth Affiliated Hospital of Sun Yat-sen University: 1
+Yat-sen University: 1
+BSH: 1
+Bie Y(1: 1
+Bie M(2: 1
+Liu W(3: 1
+Tao S(1: 1
+Song Y(5: 1
+District Anting Hospital: 1
+Tianchen Rehabilitation Hospital: 1
+3)Shanghai Baoshan Hospital of Integrated Traditional Chinese: 1
+4)Shanghai Institute of Immunity and Infection: 1
+JNK2: 1
+Curcumin: 1
+Lee JO(1: 1
+Kim CY(2: 1
+Lee S(3)(4)(5: 1
+Chung JH(3)(6: 1
+Health Science and Technology: 1
+Graduate School of Convergence 
+Science and Technology: 1
+National University College of Medicine: 1
+Translational Medicine: 1
+Seoul National University 
+Bundang Hospital: 1
+Genomic Medicine: 1
+MSS: 1
+STAD: 1
+UCEC: 1
+TCGA-UCEC: 1
+Lee et al: 1
+United European: 1
+Gastroenterol J. 2025: 1
+Bias: 1
+Imai K(1: 1
+Hotta K(1: 1
+Kobayashi: 1
+Ohata: 1
+Chino A(6: 1
+Yamada M(2: 1
+Tsuji Y(7: 1
+Harada K(8: 1
+Ikematsu: 1
+Murakami T(12: 1
+Katagiri A(14: 1
+Michida 
+T(5)(17: 1
+Suzuki T(18: 1
+Fukuzawa M(19: 1
+Kiriyama S(20: 1
+Fukase K(21)(22: 1
+Murakami Y(23: 1
+Shizuoka Cancer Center: 1
+Gastrointestinal Endoscopy: 1
+NTT Medical Center Tokyo: 1
+Osaka International Cancer 
+Institute: 1
+Graduate School of Medicine: 1
+Okayama University Hospital: 1
+National Cancer Center Hospital 
+East: 1
+Research and Development for Minimally Invasive Treatment: 1
+Keio University School of Medicine: 1
+Gunma University: 1
+Graduate 
+School of Medicine,: 1
+Juntendo University School of Medicine: 1
+Ishikawa Prefectural Central Hospital: 1
+Department of Medicine, Showa University 
+School of Medicine: 1
+Gastrointestinal Medicine: 1
+Japan Red Cross: 1
+Japan Community Healthcare Organization 
+: 1
+Chiba Cancer Center: 1
+Tokyo Medical University: 1
+Gunma Chuo Hospital: 1
+Yamagata Prefectural Central Hospital: 1
+Yamagata Prefectural Kahoku Hospital: 1
+Toho University: 1
+Molecular-Targeting Cancer Prevention: 1
+Kyoto Prefectural 
+University of Medicine: 1
+Size: 1
+United European Gastroenterology Journal: 1
+Wiley Periodicals: 1
+United European Gastroenterology: 1
+Bassam K(#)(1: 1
+Al Zein: 1
+Nasser SA(3: 1
+Sloan Kettering: 1
+Newyork: 1
+2)Cleveland Clinic: 1
+University,: 1
+College of Medicine, QU Health: 1
+β-AR: 1
+Inn Med: 1
+Bretthauer: 1
+Effectiveness Research Group: 1
+Institute of Clinical Medicine: 1
+University of Oslo: 1
+Gaustad Hospital: 1
+Oslo: 1
+Transplantation Medicine: 1
+Oslo University Hospital: 1
+Trotz: 1
+Mortalität: 1
+Karzinom: 1
+Krebserkrankung: 1
+Brustkrebs: 1
+Früherkennung: 1
+Screening: 1
+empfohlenen: 1
+Koloskopie: 1
+Blut: 1
+FRAGESTELLUNG: 1
+Der: 1
+Evidenzlage: 1
+Nutzen der am 
+häufigsten: 1
+Ziel des Beitrags: 1
+Evidenz: 1
+zum Nutzen des Darmkrebsscreenings: 1
+Mortalität des kolorektalen: 1
+Karzinoms: 1
+Das Lebenszeitrisiko: 1
+Frauen: 1
+Vorsorgekoloskopie das Risiko von Darmkrebs: 1
+Neue Evidenz: 1
+Jahr: 1
+Jahre: 1
+Blutung: 1
+Zahlen: 1
+zu 
+erklären: 1
+Richtlinien: 1
+kein Interessenkonflikt: 1
+jeweils dort: 1
+trastuzumab deruxtecan: 1
+Matsumura: 1
+Mandai: 1
+University Faculty of Medicine: 1
+2)Editorial Committee: 1
+University Graduate School of Medicine: 1
+Guscott MA(#)(1: 1
+Watcharadetwittaya: 1
+McNeill: 1
+Moralli D(4: 1
+Shaikh N(1: 1
+McClelland SE(1: 1
+Queen Mary University of London: 1
+Khon 
+Kaen: 1
+CARI: 1
+Khon Kaen: 1
+CCNE1: 1
+John Wiley & Sons Ltd: 1
+John Wiley & Sons 
+Ltd: 1
+Metastatic Colorectal Cancer 
+Patients: 1
+Hussien NM(1: 1
+Farghaly RMM(1: 1
+Hussien MT(2: 1
+Oncologic Pathology: 1
+the Medical Oncology Department: 1
+Assiut University: 1
+Extracellular Vesicles: 1
+Adenomas: 1
+Polyps: 1
+Afanas'ev SG(4: 1
+Kostromitsky DN(4: 1
+Chernyshova AL(5: 1
+Kolegova ES(6: 1
+Spirina LV(2: 1
+Tumour Biochemistry, Cancer Research Institute: 1
+Biochemistry and Molecular Biology: 1
+Siberian State Medical 
+University: 1
+the National Medical Research 
+Center: 1
+ac: 1
+E.N. Meshalkin: 1
+Biology of Tumour Progression,: 1
+Tomsk National Research Medical Center: 1
+EV: 1
+Multiparametric: 1
+≥30 kg/m²: 1
+Epithelial-Mesenchymal Transition: 1
+Mardiah: 1
+Lestari SR(2: 1
+Sholeh M(3: 1
+Linangkung A(4: 1
+Biology, Faculty of Science and Mathematics: 1
+Universitas Riau: 1
+Biology, Faculty of Mathematics and Natural Sciences: 1
+Negeri Malang: 1
+Surgeon Division: 1
+Faculty of Medicine, Public Health: 1
+TGF-β1: 1
+ZEB1: 1
+Smad4: 1
+Alpha1 Antitrypsin: 1
+Mouse Model: 1
+Al-Omari MM(1: 1
+Okour A(2: 1
+Al-Qaoud KM(2: 1
+Al-Omari T(2: 1
+Bataineh: 1
+Yarmouk 
+University: 1
+Yarmouk University: 1
+Programmed: 1
+PD1/PDL1: 1
+immunohistochemistry(IHC: 1
+p=0.0004: 1
+p=0.04: 1
+AOM/DSS: 1
+DSS: 1
+Zhao N(1: 1
+Cao Y(1: 1
+Wang L(1: 1
+Wang F(1: 1
+Zhao Y(1: 1
+Harbin Medical 
+University: 1
+The Cancer 
+Genome Atlas: 1
+Prognosis-Related Microbial Score: 1
+Chen P(1: 1
+Qian K(2: 1
+Zhu K(2: 1
+Xiaoqing L(2: 1
+Dajin L(2: 1
+Jiao Tong University School of Medicine: 1
+Suzhou Kowloon Hospital: 1
+Department of Anesthesiology: 1
+2)The Affiliated Huai'an Hospital: 1
+Joint Surgery: 1
+9.52± 0.63: 1
+kolorektalnog karcinoma: 1
+minimalno invazivna: 1
+izaziva sistemski: 1
+hiruršku traumu: 1
+stres povezan: 1
+antioksidativnim: 1
+procenila efekte 
+: 1
+serumske bio-markere: 1
+CRIP: 1
+kod: 1
+koji su podvrgnuti: 1
+boji karci-noma: 1
+U ovom randomizovanom kontrolisanom: 1
+postoperativni serumski: 1
+nivoi markera: 1
+CRP 
+IL-6: 1
+su 
+kvantifikovani: 1
+ELISA testa: 1
+testa: 1
+Statistička: 1
+upoređivala 
+međugrupne: 1
+primala esketamin pokazala je značajno 
+smanjen oksidativni stres: 1
+92,56±8,31: 1
+69,93± 7,05 nU/mL: 1
+mmol/L: 1
+citokini su: 1
+82,38± 8,46: 1
+ZAKLJUČAK: 1
+Ovi: 1
+karcinoma: 1
+Peng Chen: 1
+Kun Qian: 1
+Kairun Zhu: 1
+Lu Xiaoqing: 1
+Liu Dajin: 1
+CEON/CEES: 1
+Dwijayanti: 1
+Azizah NN(2: 1
+Erlina L(3)(4: 1
+Kusmardi K(2)(5: 1
+Fadilah F(3)(4: 1
+Hashim NM(1)(2)(3)(4)(5)(6)(7)(8: 1
+Medical Pharmacy, Faculty of Medicine: 1
+2)Drug Development Research Center: 1
+Medical Chemistry: 1
+Core Facilities: 1
+Pathology Anatomic, Faculty of Medicine: 1
+Hamka: 1
+Pharmacy, Faculty of Medicine, University of Malaya: 1
+Natural Products and Drug Discovery: 1
+CENAR: 1
+University of Malaya: 1
+DEG: 1
+Quercetin: 1
+CTD: 1
+quercetin: 1
+MI(1)(2: 1
+Lusikooy RE(3: 1
+Putra AE(4: 1
+Elliyanti: 1
+Sukma A(6: 1
+Microbiology, Faculty of Medicine: 1
+Nuclear Medicine: 1
+Livestock Product Technology: 1
+Faculty of Animal Science: 1
+Universitas Andalas: 1
+dysplasia + L. lactis D4: 1
+L.: 1
+Zou S(#)(1): 1
+Gao C(1: 1
+Wang J(1)(2: 1
+The Fourth Affiliated Hospital of School of Medicine: 1
+International School of Medicine, International Institutes of Medicine: 1
+Zhejiang 
+University: 1
+Yiwu: 1
+Zhejiang University 
+School of Medicine: 1
+Res Sq: 1
+Peoples AR: 1
+Obón-Santacana M: 1
+Kim AE: 1
+Kawaguchi ES: 1
+Fu Y, Qu C: 1
+Moratalla-Navarro F: 1
+Lin Y: 1
+Berndt SI: 1
+Bien SA: 1
+Bishop DT: 1
+Campbell PT: 1
+Chan: 1
+Chang-Claude J: 1
+Devall MA: 1
+Dimou N: 1
+Gruber SB: 1
+Gunter MJ: 1
+Harlid S: 1
+Harrison TA: 1
+Hoffmeister M: 1
+Hsu L: 1
+Kundaje A: 1
+Lewinger JP: 1
+Li L: 1
+Marchand LL: 1
+Martín V: 1
+Murphy N: 1
+Newton CC: 1
+Hardikar S: 1
+Ose J, Pai RK: 1
+Palmer JR: 1
+Papadimitriou N: 1
+Pellatt AJ: 1
+Pinchev M: 1
+Potter JD: 1
+Rennert G: 1
+Sakoda LC: 1
+Stern MC: 1
+Su YR: 1
+Thomas CE: 1
+Tian Y: 1
+Tsilidis KK: 1
+van 
+Duijnhoven FJB: 1
+Visvanathan K: 1
+Wu AH: 1
+Ulrich CM: 1
+Peters U: 1
+Gauderman WJ: 1
+Moreno V.
+
+Background Physical: 1
+GxE: 1
+rs4779584: 1
+KCNG1: 1
+TT: 1
+GREM1: 1
+SCG5: 1
+Cureus: 1
+Dounya: 1
+Ouazni M(3: 1
+Soufi M(2: 1
+Mohammed VI Hospital: 1
+Surgery, University Hospital Center Souss Massa: 1
+Faculty of Medicine and Pharmacy: 1
+Ibn Zohr University: 1
+University Hospital Center: 1
+Souss Massa: 1
+MSH2: 1
+Mohamed et al: 1
+Li X(#)(2: 1
+Yu E(1: 1
+Yang X(1: 1
+the First Affiliated Hospital of Naval 
+Medical University: 1
+PDZD8: 1
+RKO: 1
+messenger RNA: 1
+Gao DZ(1: 1
+Han Y(1: 1
+Zhao XF(1: 1
+Dalian University: 1
+Xinhua Hospital: 1
+the Search Tool for Interacting Chemicals: 1
+Gene Ontology: 1
+Kyoto Encyclopedia of Genes and Genomes: 1
+Cell Counting: 1
+SW480: 1
+MDM2: 1
+Cardiovascular Morbidity and Mortality: 1
+Wang L: 1
+Yang J: 1
+Chen J: 1
+Shu XO: 1
+Shrubsole MJ: 1
+Gupta DK: 1
+Ma S: 1
+Dai Q: 1
+Zheng W: 1
+Yu D.
+
+Ultra: 1
+UPF: 1
+the Southern Community 
+Cohort Study: 1
+Prostate: 1
+Lung: 1
+Colorectal: 1
+Communities Study: 1
+Dai: 1
+the Brief Illness Perception Questionnaire: 1
+the Social Support Rating Scale: 1
+the Hospital Anxiety and Depression Scale: 1
+Huhang Nursing Research Fund: 1
+Shanghai Anticancer Association: 1
+Chen Q(1: 1
+Zhou Y(1: 1
+Lin Z(1: 1
+Ke C(1: 1
+the Gene 
+Expression Omnibus: 1
+Atlas-Colon Adenocarcinoma (TCGA-COADREAD: 1
+Deltaproteobacteria: 1
+TIME: 1
+Qiao S(1: 1
+Yang S(1: 1
+Hua: 1
+Li X(2: 1
+Cheng C(1: 1
+Lu 
+W(1: 1
+Xijing 986 Hospital: 1
+Air Force Medical 
+University: 1
+Radiotherapy, Shaanxi Provincial Cancer Hospital: 1
+The Cancer Genome 
+: 1
+Atlas: 1
+LASSO: 1
+DNB: 1
+NCOA4: 1
+D'Angelica: 1
+Hepatopancreatobiliary Service: 1
+Memorial Sloan: 1
+Cornell Medical College: 1
+Cornell University: 1
+Funatsu N(1: 1
+Watanabe: 1
+Uetake: 1
+National Hospital Organization: 1
+Disaster Medical Center: 1
+Wu J(#)(1: 1
+Zhang M(1: 1
+Dou G(1: 1
+Peng Y(1: 1
+Chen Z(1: 1
+The Affiliated Hospital of Jiaxing 
+University: 1
+The Third Affiliated Hospital: 1
+Medical 
+University: 1
+3)Faculty of Medical Science: 1
+Jinan University: 1
+ICI: 1
+Cell Counting Kit-8: 1
+mouse xenografts: 1
+the Jiaxing Science and Technology Plan 
+Project-Research on Technological Innovation of People’s Livelihood: 1
+the National Oncology Clinical Key Specialty 
+Program: 1
+the Medical Scientific Research Foundation: 1
+Survival: 1
+Peng J(1)(2: 1
+Patel: 1
+Modi K(2: 1
+Jones JC(1: 1
+Rutenberg MS(5: 1
+Babiker: 1
+AZ: 1
+MN: 1
+linear: 1
+the Mayo Clinic: 1
+institutional review board: 1
+IRB: 1
+Kaplan: 1
+Caucasian: 1
+NCT04975516: 1
+Pfeiffer: 1
+Tarpgaard LS(1)(2: 1
+Odense University Hospital: 1
+Clinical Research,: 1
+University of Southern Denmark: 1
+Odense: 1
+Ocuin LM(2: 1
+Jefferson Health-Lehigh Valley Topper Cancer 
+Institute: 1
+Huang Y(#)(2: 1
+Wang Z(2: 1
+Liu S(2: 1
+Jia Z(3: 1
+Beijing Jiangong Hospital: 1
+n=50: 1
+Xiao X(4: 1
+Zeng 
+X(2)(3: 1
+Care Unit: 1
+Clinical Medical Research Center: 1
+CAPOX/mFOLFOX6: 1
+anti-Lipopolysaccharides: 1
+LPS: 1
+IgA/IgG: 1
+IgG: 1
+CCT: 1
+Lei Q(2: 1
+Jia Z(1: 1
+Ma G(4: 1
+Xi'an Daxing Hospital Xi'an 710082: 1
+Baoji: 1
+Diagnosis and Treatment Center: 1
+The First Hospital of Yulin Yulin 
+719000: 1
+Dingxi People's Hospital No: 1
+n=94: 1
+Cindilizumab: 1
+Jo KB: 1
+Alruwaili MM: 1
+Kim DE: 1
+Koh Y: 1
+Sane S: 1
+Wright: 1
+Lim HJ: 1
+Naranjo: 1
+Coté AG: 1
+Roth FP: 1
+Hill DE: 1
+Choi JH: 1
+Lee H: 1
+Matreyek KA: 1
+Farh KK: 1
+Kim DK: 1
+BCL2: 1
+CDX: 1
+Surve SV(1: 1
+de Sousa Bezerra AV(1: 1
+Murphy CE(1: 1
+Soucy: 1
+Aguilar Ramos: 1
+Valls: 1
+Ruff: 1
+Balskus EP(3)(4: 1
+Madan JC(6)(7: 1
+O'Toole: 1
+Microbiology and Immunology: 1
+Geisel School of Medicine: 1
+Biomedical Data Science, Geisel School of Medicine: 1
+Chemistry: 1
+Chemical Biology: 1
+Hughes Medical Institute: 1
+Pediatric Gastroenterology: 1
+Department of Pediatrics: 1
+Dartmouth 
+Hitchcock Medical Center: 1
+Psychiatry and Pediatrics: 1
+Dartmouth Hitchcock Medical Center: 1
+School of Medicine at: 1
+Competing Interest Statement:: 1
+the Viability of Fusobacterium: 1
+Xu S: 1
+Wu C.
+
+Fusobacterium: 1
+CRISPR: 1
+Niknam: 1
+Naghibalhossaini: 1
+Hosseini SV(3: 1
+Zamani: 1
+Mokarram: 1
+Biochemistry, School of Medicine: 1
+Shiraz University of Medical 
+Sciences: 1
+Department of Biochemistry, School of Medicine: 1
+ATG2B: 1
+BIOZOL RNA: 1
+General Science, College of Basic Education: 1
+Salahaddin 
+University Erbil: 1
+Camejo: 1
+Manzanares: 1
+Cabrera: 1
+Amarillo: 1
+Guerrina M(1)(10: 1
+Dörner C(2)(12: 1
+Krygier G(1)(13: 1
+Clinical Oncology: 1
+Hospital de Clínicas: 1
+Zoilo A. Chelle': 1
+11)Academic Unit of Preventive and Social Medicine, School of Medicine: 1
+the American Cancer 
+Society: 1
+RAND-36: 1
+Student: 1
+Sider Fusion AI: 1
+Gastric Cancer Patients: 1
+Naseri: 1
+Antikchi MH(2: 1
+Barahman M(3: 1
+Vakili-Ojarood M(5: 1
+Rahmani: 1
+Shiri 
+A(8: 1
+Masoudi: 1
+Aghasipour: 1
+K(11: 1
+Neamatzadeh H(12: 1
+Imam Reza Hospital: 1
+AJA University of 
+Medical Sciences: 1
+Yazd Branch: 1
+Islamic Azad University: 1
+Firoozgar Clinical Research Development 
+Center: 1
+Surgery, School of Medicine: 1
+Iran University of Medical 
+Sciences: 1
+Surgery, School of Medicine, Ardabil University of Medical 
+Sciences: 1
+Surgery,: 1
+Iranshahr University of Medical Sciences: 1
+Iranshahr: 1
+Ilam University of Medical Sciences: 1
+Practitioner: 1
+Shahid Sadoughi: 1
+University of Medical Sciences: 1
+College of Medicine, University of Cincinnati: 1
+Radiology, School of Medicine: 1
+Newborn Health Research Center: 1
+Shahid Sadoughi University of 
+Medical Sciences: 1
+Perplexity AI: 1
+Sider Fusion AI Bot's: 1
+Indian Association of Surgical 
+Oncology 2024: 1
+Liu JY(1: 1
+Liang ZH(2: 1
+Liu JL(2: 1
+Li TG(3: 1
+cetuximab: 1
+the Response 
+Evaluation Criteria: 1
+the European Organization for Research and Treatment of Cancer: 1
+Yu LX(1: 1
+Zou HP(2: 1
+Miao YD(1)(3)(4)(5: 1
+Lin SX(1)(6: 1
+Yantai Affiliated Hospital of Binzhou Medical University: 1
+Second Medical College of Binzhou Medical University: 1
+Yantai Affiliated Hospital of Binzhou Medical 
+University: 1
+The Second Medical College of Binzhou Medical University: 1
+3)Guangdong Provincial Key Laboratory of Medical Biomechanics: 1
+National Key 
+Discipline of Human Anatomy, School of Basic Medical Sciences: 1
+Southern Medical 
+University: 1
+Sala-Miquel: 1
+JB(1: 1
+Liu XC(1: 1
+Tao XW(1: 1
+Shan LQ(2: 1
+EMR: 1
+LST-NG: 1
+Xing YX(3: 1
+Sun NZ(1)(4: 1
+Orthopedics: 1
+Changsha: 1
+Cancer Hospital: 1
+Shantou University 
+Medical College: 1
+The Third Xiangya Hospital of Central South 
+University: 1
+Changsha 410013: 1
+Clinical Research Center: 1
+Zuo et al: 1
+Kong: 1
+Song LT(2: 1
+Radiology,: 1
+the spectral curve (λHU: 1
+Capital 
+Medical University: 1
+tiana7070@163.com: 1
+Jiang BB(1: 1
+Wang JC(1)(2: 1
+Yan K(3: 1
+Zhang ZY(1: 1
+Wu W(1: 1
+Tsinghua Changgung Hospital: 1
+School of Clinical Medicine: 1
+Tsinghua 
+Medicine: 1
+Tsinghua University: 1
+Yin R(1): 1
+Ying: 1
+Liu GQ(1: 1
+Ge JX(2: 1
+Mao JX(1: 1
+Gao R(2: 1
+Yan XB(3: 1
+Wang HH(4: 1
+Zheng XJ(1: 1
+Zhang ZX(2: 1
+Du J(3: 1
+Lanxi Traditional Chinese Medicine Hospital: 1
+Anesthesiology, Tianjin Baodi Hospital: 1
+Tianjin Medical 
+University Baodi Hospital: 1
+Tianjin Beichen District Hospital of Traditional 
+Chinese Medicine: 1
+standard fluid management: 1
+Ban X(1: 1
+Huang SQ(2: 1
+Anesthesiology, Shulan: 1
+Zhejiang Shuren University Shulan International 
+Medical College Affiliated Shulan: 1
+T1: 1
+T2: 1
+T3: 1
+VAS: 1
+Omega: 1
+Katamesh: 1
+Mostafa M(3: 1
+Ibrahim M(3: 1
+Alobaida: 1
+El-Horany HE(4)(5: 1
+Khalifa NE(1)(6: 1
+El Sayed MM(3: 1
+Pharmaceutics, College of Pharmacy, University of Ha'il: 1
+College of Pharmacy, University: 1
+Minia University: 1
+Biochemistry, College of Medicine, University of Ha'il: 1
+Medical Biochemistry, Faculty of Medicine: 1
+Tanta University: 1
+Tanta 31527: 1
+Khartoum: 1
+FDM: 1
+American Chemical Society: 1
+Madrigal-Burgaleta R(1)(5: 1
+Ruffinelli JC(6: 1
+Hypersensitivity and Desensitization Centre: 1
+DHDC: 1
+Institut Català 
+d'Oncologia: 1
+Biomèdica de Bellvitge: 1
+UB: 1
+Severe Asthma Service: 1
+St Bartholomew's: 1
+Barts Health 
+NHS Trust: 1
+Institut Català d'Oncologia: 1
+ICO: 1
+Banc de Sang I Teixits: 1
+Drug 
+Hypersensitivity and Desensitisation Centre: 1
+IHA: 1
+OXL: 1
+Madrigal-Burgaleta: 1
+Zhang P(1: 1
+Jia R(2: 1
+Tang Y(1: 1
+Li Q(3: 1
+Hou F(1: 1
+Shanghai Municipal Hospital of Traditional 
+Chinese Medicine: 1
+Shanghai University of Traditional Chinese Medicine: 1
+Shuguang Hospital: 1
+Shanghai University: 1
+Chinese Medicine and Integrative Medicine: 1
+Shanghai Geriatric 
+Medical Center: 1
+Traditional 
+Chinese Medicine: 1
+Herba 
+Patriniae: 1
+PI3K/Akt/mTOR: 1
+Wnt/β-catenin: 1
+EGFR/ERK/MAPK: 1
+Jia: 1
+Hou: 1
+Mori: 1
+Hirosawa KM(2: 1
+Kondo R(4)(5: 1
+Taguchi: 1
+Matsuhashi N(1: 1
+Suzuki KGN(2)(3)(4)(5: 1
+Gastroenterological Surgery: 1
+Graduate 
+School of Medicine: 1
+Glyco-Core Research: 1
+Graduate School of Agricultural Science, Gifu University: 1
+Advanced Bioimaging: 1
+National Cancer Center Research Institute: 1
+Tokyo 104-0045: 1
+School of Natural Science and Technology: 1
+Integrative Life Sciences: 1
+Graduate School of Life Sciences: 1
+SOS1: 1
+RSC Adv: 1
+Ahmed EY(1: 1
+Elghonemy MM(1: 1
+Elasasy MEA(2: 1
+El-Daly SM(3)(4: 1
+Mahmoud MA(3: 1
+Awad HM(4)(5: 1
+Abdel Latif: 1
+Natural Compounds Department: 1
+Pharmaceutical and Drug Industries 
+Research Institute: 1
+Organic Chemistry Department: 1
+Biochemistry Department: 1
+Medical Research: 1
+Clinical Studies 
+Institute: 1
+Biology and Genetics Laboratory: 1
+Centre of Excellence for Advanced 
+Sciences: 1
+Leather Technology Department: 1
+HDAC: 1
+HCT-116: 1
+BJ-1: 1
+EGFR/HDAC1/ERK: 1
+Ehrlich: 1
+The Royal Society of Chemistry: 1
+Immunol: 1
+β-Catenin/BCL9: 1
+Shang X(2: 1
+Wang J(1)(3: 1
+Yao Y(2: 1
+Zheng 
+X(1)(3: 1
+Stem Cell & Regenerative Medicine: 1
+Biotherapy: 1
+Shang: 1
+Wang M(1: 1
+Hong X(1: 1
+Liu X(2: 1
+Si W(1: 1
+Laboratory Medicine: 1
+Remodeling, Key Laboratory: 1
+Regulatory Peptides: 1
+National Health Commission: 1
+2)Department of Laboratory Medicine, Peking University First Hospital Beijing: 1
+Epigenetic: 1
+MTC: 1
+Kim Y(1: 1
+Seoul National University Cancer Hospital: 1
+COREAN: 1
+Cancer Prev Res: 1
+Familial Adenomatous 
+Polyposis: 1
+Clarke: 1
+Lockett TJ(2: 1
+Harrap KL(3: 1
+Bird: 1
+Boussioutas: 1
+Appleyard M(6: 1
+Williams: 1
+Zaloumis S(8: 1
+Gupta A(4: 1
+Sivanesan: 1
+Al-Ani A(4: 1
+Spigelman AD(9: 1
+Koye DN(8: 1
+Lynch: 1
+Macrae FA(11: 1
+2)CSIRO Health and Biosecurity: 1
+7)St Vincent's: 1
+9)UNSW Sydney: 1
+10)The University of Texas: 1
+Anderson Cancer Center: 1
+Familial Adenomatous Polyposis: 1
+P: 1
+Curr Med Imaging: 1
+Ma J(3: 1
+Zhang C(4: 1
+Liu L(1: 1
+Radiology: 1
+Ultrasound Medicine: 1
+Chengdu 
+Medical College: 1
+416 Hospital of Nuclear Industry: 1
+Dali Bai Autonomous Prefecture People's Hospital: 1
+Curr Med Chem: 1
+Hanbashi A(1: 1
+Mawkili W(1: 1
+Kamli F(1: 1
+Ali MS(2: 1
+Ahmad S(3: 1
+Khardali A(3: 1
+Alam N(3: 1
+Alam: 1
+Hussain MS(5: 1
+Jazan 
+University: 1
+Pharmaceutics, College of Pharmacy: 1
+Clinical Practice: 1
+Pharmacognosy, College of Pharmacy: 1
+Sattam Bin Abdulaziz: 1
+Al-Kharj: 1
+Institute of Pharmaceutical Sciences: 1
+Uttaranchal University: 1
+Prem Nagar: 1
+ALDH1: 1
+Tei M(2: 1
+Nishida K(2: 1
+Mori S(2: 1
+Yoshikawa: 1
+Nomura: 1
+Ohara N(2: 1
+Hamakawa T(2: 1
+Tsujie M(2: 1
+the Osaka Rosai Hospital: 1
+mm: 1
+Nrf2-GPX4 Signaling: 1
+Colorectal Cancer Cells: 1
+Jin W(1: 1
+Wang JJ(1: 1
+Feng YF(2: 1
+Chen B(3: 1
+Hu ZH(4: 1
+The Second Affiliated Hospital of Zhejiang University 
+School of Medicine: 1
+Formos Med Assoc: 1
+Gao F(1: 1
+Obstetrics and Gynecology, Gansu Provincial Maternity: 1
+Child-Care Hospital: 1
+No.143 North Qilihe Road: 1
+the Tumor Immune Microenvironment: 1
+Colorectal Cancer: Association With Prognostic: 1
+Huang WW(1: 1
+Yuan SS(2: 1
+Liu FR(3: 1
+Sun 
+Yat-sen University Cancer Center: 1
+Department of Pathology: 1
+P3 (Foxp3: 1
+HERACLES: 1
+TPS: 1
+Foxp3: 1
+PD-L1 TPS: 1
+Qin S(1: 1
+Zhu J(1: 1
+Ju X(1: 1
+Wang W(1: 1
+2)Key Laboratory of Efficient Utilization of Non-grain: 1
+the "Ideal Dietary Fiber: 1
+Non-Alcoholic Fatty 
+Liver Disease: 1
+Translated Educational Infographics Increase Colorectal Cancer Screening Rates: 1
+Non-Native English Speakers: 1
+Zhornitskiy: 1
+Nguyen BS(2: 1
+Shieh C(2: 1
+Nasirishargh: 1
+Valenti: 1
+Perez JLM(3: 1
+Zhornitsky: 1
+Nguyen JT(5: 1
+Hsu R(4: 1
+Gastroenterology and Hepatology, University of California: 1
+Hepatology, University of California: 1
+Internal Medicine, University of California: 1
+Davis Medical 
+Center: 1
+Davis School of Medicine: 1
+Davis College of Biologic Sciences: 1
+Davis: 1
+CA: 1
+American Pacific Islander: 1
+American College of Gastroenterology: 1
+ACG: 1
+Driver Inference: 1
+Xu J(1: 1
+Zhu R(1: 1
+Liang: 1
+Life Science: 1
+Key Laboratory of Flexible Electronics: 1
+LoFE) & Institute of Advanced 
+Materials: 1
+IAM: 1
+School of Chemistry and Life Sciences: 1
+Nanjing University: 1
+Posts & Telecommunications: 1
+Clin Nutr: 1
+Inhibiting Colorectal Cancer: Results: 1
+Zhu X(2: 1
+Murff HJ(4: 1
+Sun S(5: 1
+Yu C(6: 1
+Fan: 1
+Shrubsole MJ(2: 1
+Dai Q(8: 1
+Medicine, Division of Geriatric Medicine: 1
+Vanderbilt University 
+Medical Center: 1
+Bioinformatics and Genomics, University of North Carolina: 1
+Population Health, Division of Biostatistics: 1
+NYU Grossman 
+School of Medicine: 1
+Medicine, Division of Gastroenterology and Hepatology: 1
+UNC: 1
+School of Medicine, Chapel Hill: 1
+qi.dai@vanderbilt.edu: 1
+The Personalized Prevention of Colorectal Cancer Trial: 1
+0.133±0.503: 1
+P=0.04: 1
+FDR: 1
+NCT01105169: 1
+Cancer Epidemiol: 1
+Ross KM(3: 1
+Prosperi M(5: 1
+George TJ(6: 1
+Virnig BA(7: 1
+Cancer Prevention and Control Research 
+Program: 1
+Department 
+of Health Services Research Management and Policy, University of Florida: 1
+Gainesville: 1
+2)Department of Health Services Research Management and Policy, University: 1
+Aurora Research Institute: 1
+Advocate Health: 1
+Department of Social Sciences and Health Policy: 1
+Wake Forest University 
+School of Medicine: 1
+Biostatistics, University of Florida: 1
+Health Services Research Management and Policy, University: 1
+Florida Cancer Data System: 1
+National Program of Cancer Registries: 1
+AOR=1.23: 1
+Medicaid: 1
+AOR=1.52: 1
+EOCRC: 1
+Hong: 1
+WW International: 1
+Qiu X(1: 1
+Li R(2: 1
+Li P(3: 1
+Xie G(4: 1
+Yin S(2: 1
+2)GeneX Health Company Limited Laboratory: 1
+First Medical Center of Chinese People's 
+Liberation Army General Hospital: 1
+Gastrointestinal Surgery,: 1
+Union Hospital: 1
+Tongji Medical 
+College: 1
+Huazhong University of Science and Technology: 1
+linguole@126.com: 1
+Editorial Board: 1
+Journal: 1
+Yang Z(1: 1
+Song W(2: 1
+Li Y(3: 1
+University Shanghai Cancer Center: 1
+Hospital of Traditional Chinese Medicine,: 1
+Capital Medical University: 1
+TRIM2: 1
+Rapamycin: 1
+Mechanistically: 1
+Cancer Treat: 1
+Socha: 1
+Michalski W(2: 1
+Glynne-Jones R(3: 1
+Glimelius B(4: 1
+Bujko K(5: 1
+Medicine, Jan Dlugosz University: 1
+Department of Radiotherapy, Regional Oncology Center: 1
+Medicine Center: 1
+Uppsala University: 1
+Krzysztof.Bujko@nio.gov.pl: 1
+RAPIDO: 1
+Assoc Genet Technol: 1
+Breakthrough Alongside Prenatal Studies: 1
+Prenatal: 1
+Garcia-Heras J(1: 1
+1)The Journal of the Association of Genetic Technologists: 1
+the U.S. National 
+Institutes of Health: 1
+NIH: 1
+Non-Invasive Prenatal Testing (NIPT: 1
+the Association of Genetic Technologists: 1
+Dig Dis Sci: 1
+Colorectal Cancer: Therapeutic Potential: 1
+Sun X(3: 1
+Cancer Institute of New Jersey: 1
+NJ: 1
+Shah: 1
+Ullah MI(2: 1
+Khan UZ(1: 1
+Irfan: 1
+Ahmad: 1
+Medical College: 1
+Hayatabad Medical Complex: 1
+Foundation Hospital: 1
+Radiotherapy and Nuclear Medicine: 1
+CRC-LM: 1
+MD -1.44: 1
+Rev Gastroenterol Mex: 1
+Engl Ed: 1
+Muñoz: 1
+Miranda FJ(2: 1
+Ramírez AA(3: 1
+Regalado D(3: 1
+Gallardo: 1
+Pizarro: 1
+de Medicina: 1
+Ciencias Biomédicas: 1
+Universidad Autónoma de 
+Chihuahua: 1
+Investigación de Salud: 1
+CHRISTUS MUGUERZA: 1
+Hospital del Parque: 1
+CHRISTUS MUGUERZA Hospital del Parque: 1
+Endoscopia: 1
+Chihuahua, Chihuahua: 1
+5)Departamento de Reumatología: 1
+Hospital Angeles Chihuahua: 1
+Chihuahua: 1
+M1b: 1
+Asociación Mexicana de Gastroenterología: 1
+Masson 
+Doyma México S.A.: 1
+Xia X(1: 1
+Zhang Z(2: 1
+Xu Z(1: 1
+Huang F(3: 1
+Xiang X(4: 1
+Crops Research Institute of Chinese Academy of Agricultural Sciences: 1
+2)The First Affiliated Hospital: 1
+College of Clinical Medicine: 1
+University of Science and Technology: 1
+3)Oil Crops Research Institute of Chinese Academy of Agricultural Sciences: 1
+4)Oil Crops Research Institute of Chinese Academy of Agricultural Sciences: 1
+Berberine: 1
+CMC: 1
+XRD: 1
+ALG/CMC/BBR-RA: 1
+Chen J(2: 1
+Sichuan Clinical Research Center for Cancer: 1
+Sichuan Cancer Hospital & Institute: 1
+Cancer 
+Hospital of University of Electronic Science and Technology of China: 1
+The Evofosfamide (: 1
+H2O2: 1
+LOO•: 1
+Cheng W(2: 1
+Chen Y(2: 1
+Frontiers Medical Center: 1
+Tianfu Jincheng 
+Laboratory: 1
+Chlorin: 1
+Ato: 1
+ER: 1
+Lancet: 1
+Bennett JE: 1
+O'Driscoll ON: 1
+Stevens GA: 1
+Aldea-Ramos N: 1
+Bray F: 1
+Livingston G: 1
+Perel P: 1
+Kruk: 1
+Mbanya JC: 1
+Pearson-Stuttard J: 1
+Dain K: 1
+Horiuchi: 1
+UK Medical Research Council: 1
+UK National Institute for Health and Care 
+Research: 1
+JP-S: 1
+Lane Clark & Peacock: 1
+the Royal Society for Public Health: 1
+KD: 1
+Sharp & Dohme: 1
+American Heart Association: 1
+American College of Cardiology: 1
+The George 
+Institute: 1
+Direct Relief: 1
+International Federation for Psoriasis: 1
+Vital Strategies: 1
+World Obesity Federation: 1
+Union for International 
+Cancer Control: 1
+World Heart Federation: 1
+International Union Against TB: 1
+Lung Disease: 1
+Helmsley Charitable Trust: 1
+the International Agency: 1
+the 
+International Agency for Research on Cancer or WHO: 1
+Bando: 1
+Kobayashi S(3: 1
+Kochi Medical School: 1
+Pancreatic Surgery: 1
+National Cancer Center 
+Hospital East: 1
+Asahi KASEI: 1
+Daiichi Sankyo Co., Ltd.: 1
+MSD Co., Ltd.: 1
+Ono Pharmaceutical Co., Ltd.: 1
+Taiho Pharmaceutical 
+Co., Ltd.: 1
+Takeda Pharmaceutical Co., Ltd.: 1
+Astellas Pharma: 1
+AstraZeneca plc: 1
+Bayer Co., Ltd.: 1
+Bristol-Myers Squibb 
+Co., Ltd.: 1
+Chugai Pharmaceutical Co., Ltd.: 1
+Eli Lilly Japan Co., Ltd.: 1
+Merck Bio 
+Pharma Co., Ltd.: 1
+Sanofi Co., Ltd.: 1
+Yakult Honsha Co., Ltd.: 1
+Takata 
+Pharmaceutical Co. Ltd.: 1
+Taiho Pharmaceutical: 1
+Ono 
+Pharmaceutical: 1
+Chugai Pharmaceutical, Takeda Pharmaceutical: 1
+Merck 
+Biopharma: 1
+MSD K.K.: 1
+Sumitomo Corp: 1
+Bristol-Myers Squibb: 1
+Caris MPI: 1
+Chugai Pharmaceutical: 1
+Eisai, Exact Sciences: 1
+FALCO Biosystems: 1
+Medical & Biological 
+Laboratories: 1
+Merus N.V.: 1
+Miyarisan Pharmaceutical: 1
+Molecular Health GmbH: 1
+Natera Inc.: 1
+Nippon Boehringer Ingelheim: 1
+Pfizer Japan: 1
+Roche Diagnostics, Sanofi, Sysmex, Taiho Pharmaceutical: 1
+Colloids Surf B Biointerfaces: 1
+Enhanced Doxorubicin: 1
+Li W(1: 1
+Shao J(2: 1
+Zhang C(2: 1
+Yan Y(3: 1
+Wei Y(5: 1
+Zheng J(6: 1
+Guo Z(7: 1
+Forensic Medicine: 1
+First Clinical Medical School: 1
+Industry, Shanxi Medical University: 1
+Province Cancer Hospital/Shanxi Hospital Affiliated: 1
+Cancer 
+Hospital: 1
+Chinese Academy of Medical Sciences/Cancer Hospital Affiliated: 1
+School of Industry: 1
+School of Nursing: 1
+School of Forensic Medicine: 1
+DLE: 1
+KM: 1
+Doxorubicin: 1
+DOX: 1
+Biol Med: 1
+Arumugam S(2: 1
+siva_kumar.a@vit.ac.in: 1
+PARylating: 1
+Axin: 1
+Machine: 1
+ML: 1
+Q1 (Olaparib: 1
+ShafieiDarabi: 1
+Cui W(2: 1
+Courtney M(2: 1
+Miranda R(2: 1
+Ali K(2: 1
+LeSergent: 1
+Tjandra R(3: 1
+Abbasi: 1
+Lee LP(5: 1
+Ren CL(6: 1
+University of Calgary: 1
+Department of 
+Electrical: 1
+3)FluidAI Medical: 1
+Kitchener: 1
+Department of Electrical: 1
+5)Harvard Medical School: 1
+U/L: 1
+EnzChek: 1
+Mol Aspects Med: 1
+Ding R(2: 1
+Wang H(2: 1
+Chen S(2: 1
+Fan X(2: 1
+Duan Y(2: 1
+Hu J(3: 1
+Hu: 1
+Kunming Medical University: 1
+First People's Hospital: 1
+4)Xiangnan University: 1
+SUMO: 1
+E1: 1
+Spectrochim Acta: 1
+Xu P(2): 1
+Ma W(2: 1
+Lu Y(4: 1
+Liu Z(5: 1
+Surface-Enhanced Raman Spectroscopy: 1
+Decision Tree: 1
+K-Nearest Neighbors: 1
+KNN: 1
+Random Forest: 1
+Support Vector Machine: 1
+Bioorg Med Chem: 1
+Sep 9;130:118385: 1
+Cancer Control: 1
+Upregulating miR-214-3P: 1
+Zhu S(1: 1
+Liu F(1: 1
+Ou S(1: 1
+Tang X(1: 1
+Guan Z(1: 1
+Sun G(1: 1
+Ran S(2: 1
+Song Y(3: 1
+Huang R(1: 1
+Colorectal Cancer Surgery: 1
+Harbin Medical University: 1
+Suizhou Central Hospital: 1
+IntroductionColorectal: 1
+Short-Term Outcomes of Laparoscopic Surgery: 1
+Colonic Adenocarcinomas: 1
+Emile SH(1)(3: 1
+Bilotti: 1
+Wexner SD(1: 1
+Leifer Shulman: 1
+Steven Shulman Digestive Disease Center: 1
+E. Schmidt College of Medicine: 1
+Florida Atlantic University: 1
+Surgery Unit: 1
+General Surgery Department: 1
+Mansoura University 
+Hospitals: 1
+BackgroundWe: 1
+MethodsPatients ≥: 1
+NCDB: 1
+Pharmacy Department: 1
+Abha: 1
+korayg@kku.edu.sa: 1
+Gastric: 1
+ATC A02B: 1
+OECD Health Statistics: 1
+Royal Academy of Medicine: 1
+Immunol Immunother: 1
+Van Meerbeeck P(1: 1
+Maatougui: 1
+Vaherto N(1: 1
+Marbaix: 1
+Aboubakar Nana: 1
+Devaux A(6: 1
+Carrasco J(6: 1
+Noel: 1
+van Baren N(8: 1
+Lucas S(9)(10: 1
+1)de Duve Institute: 1
+Medical Oncology and Gastroenterology: 1
+Cliniques Universitaires Saint-Luc: 1
+Hôpital de Charleroi: 1
+Tumor and Development Biology: 1
+GIGA: 1
+ULiège: 1
+8)de Duve Institute: 1
+9)de Duve Institute: 1
+10)WELBIO: 1
+WEL Research Institute: 1
+pSMAD2- TILs: 1
+the Patent Cooperation Treaty: 1
+Sophie Lucas: 1
+Med Oncol: 1
+Bagheri: 1
+Department of Clinical Biochemistry: 1
+Medical Genetics, Faculty of Medicine: 1
+Mazandaran University of Medical 
+Sciences: 1
+Topotecan: 1
+Akiyoshi T(2)(3)(4: 1
+Noguchi T(1)(5: 1
+Sakamoto T(1)(5: 1
+Matsui 
+S(1)(5: 1
+Mukai T(1)(5: 1
+Yamaguchi T(1)(5: 1
+Koyama: 1
+Taguchi S(7: 1
+Chino: 1
+Kawachi H(9: 1
+Shinozaki E(5)(10: 1
+Yamaguchi K(5)(10: 1
+Cancer Multidisciplinary Treatment Center: 1
+Japanese Foundation for Cancer 
+Research: 1
+Nuclear Medicine, Cancer Institute Hospital: 1
+Gastroenterology, Cancer Institute Hospital: 1
+Cancer Research: 1
+Gastroenterological Chemotherapy: 1
+node metastases: 1
+the Institutional Review Board: 1
+the Cancer Institute Hospital: 1
+Endocrinol Diabetes Metab: 1
+Liao CY(1: 1
+Schapiro: 1
+Mojdami: 1
+Sheffield KM(1: 1
+Keni: 1
+Gathirua-Mwangi: 1
+Kan: 1
+Lilly and Company: 1
+Lilly Services India Private Limited: 1
+MEDLINE: 1
+CENTRAL: 1
+Eli Lilly and Company.: 1
+Eli Lilly and Company: 1
+Nutrients: 1
+the Mouse Gut Microbiome: 1
+Stewart EC(1: 1
+Almatani MF(1)(2: 1
+Rice S(1: 1
+Hintze: 1
+Benninghoff: 1
+Animal: 1
+Veterinary Sciences: 1
+Pharmacology, College of Pharmacy: 1
+Al 
+Fara: 1
+Nutrition, Dietetics and Food Sciences: 1
+CAC: 1
+AIN: 1
+w/w: 1
+CocoaVia: 1
+Cardio Health Powder: 1
+Monoglobaceae: 1
+Eggerthellaceae: 1
+Obaid: 1
+Alkazemi: 1
+Cancer Control Center: 1
+P.O. Box 42263: 1
+Food Science and Nutrition, College of Life Sciences: 1
+Shadadiya: 1
+P.O. Box 5969: 1
+Safat: 1
+the Kuwait Cancer Control Center: 1
+NIS: 1
+Sep 8;14(17):6346: 1
+Gross: 1
+Langone Health: 1
+Olympus America Inc.: 1
+The Premiere Health Database: 1
+EAC: 1
+PDR: 1
+Abraham Z. Cheloff: 1
+Seth A. Gross: 1
+Olympus: 1
+Cook: 1
+Neptune Medical: 1
+Duller: 1
+Wisiak S(1: 1
+Strohmeyer K(1: 1
+Horvath 
+Z(1: 1
+Koter N(1: 1
+Clinical Evidence: 1
+Mesa-López MJ(3: 1
+Mesa F(1: 1
+Periodontics, School of Dentistry: 1
+Digestive Diseases: 1
+Virgen de la Arrixaca University Hospital: 1
+Physiologic Age: 1
+Hernandez AE(2: 1
+Reyes AM(2: 1
+Kodia K(2: 1
+Arcieri 
+TR(2: 1
+Khalafi S(3: 1
+Meece MS(4: 1
+School of Medicine, University of Miami: 1
+Daughtry Family Department of Surgery: 1
+University of Miami Miller 
+School of Medicine: 1
+the National 
+Surgical Quality Improvement Program: 1
+Surveillance of Ulcerative: 1
+Kotrri: 1
+Lakatos PL(2)(3: 1
+Bessissow T(2: 1
+Medicine, McGill University: 1
+McGill University: 1
+Internal Medicine and Oncology, Semmelweis University: 1
+D'Angelo: 1
+Lanzafame LRM(1: 1
+Steinert: 1
+Mazziotti S(1: 1
+França M(4): 1
+Othman AE(5: 1
+Mahmoudi: 1
+Grünewald LD(2)(3: 1
+Koch: 1
+Martin SS(2)(3: 1
+Booz 
+C(2)(3: 1
+Interventional Radiology Unit: 1
+BIOMORF Department: 1
+University 
+Hospital Messina: 1
+Experimental Imaging: 1
+Department of Diagnostic: 1
+Interventional 
+Radiology: 1
+University Hospital Frankfurt: 1
+Interventional Radiology: 1
+University Hospital 
+Frankfurt: 1
+Centro Hospitalar Universitário do Porto: 1
+Gutenberg University Hospital Mainz: 1
+Mainz: 1
+Youden: 1
+Siemens Healthineers: 1
+Bracco: 1
+Potential of Selected C-X-C Motif Chemokines as: 1
+Colorectal Cancer 
+Diagnosis: 1
+Mroczko B(1)(2: 1
+ELR: 1
+CXC: 1
+CXCR2: 1
+CXCL8: 1
+CXCR5: 1
+CXCL14: 1
+CXCR6: 1
+Colorectal Cancer-Potential Diagnostic: 1
+Pająk: 1
+Kleinrok J(1: 1
+Pec J(2: 1
+Michno K(3: 1
+Wojtas J(2: 1
+Badach: 1
+Baj J(2: 1
+Forensic Medicine, Medical University of Lublin: 1
+Jaczewskiego: 1
+Correct, Clinical and Imaging Anatomy, Medical University: 1
+Jaczewskiego 4: 1
+Medicine, Medical University of Lodz: 1
+Tadeusza Kosciuszki 4: 1
+Martinelli: 1
+Cascelli N(1: 1
+Bartolo: 1
+Ciuffi M(2: 1
+Lioy R(1: 1
+Landriscina: 1
+Preclinical and: 1
+Medical Oncology and: 1
+Biomolecular Therapy: 1
+Policlinico Riuniti: 1
+University of Foggia: 1
+NG: 1
+Meade E(1: 1
+Garvey M(1: 1
+Life Science, Atlantic Technological University: 1
+Down-Regulation of Oncogene: 1
+Liang J(1: 1
+Zhang J(1: 1
+Ji: 1
+Huang ZS(1: 1
+Pharmaceutical Sciences: 1
+G50: 1
+Serum Albumin-Based: 1
+Iftimie S(1: 1
+Balan AE(1: 1
+Oprea: 1
+Enculescu M(2): 1
+Physics, University of Bucharest Magurele: 1
+Institute of Materials Physics: 1
+Str: 1
+AFM: 1
+Voltametric: 1
+HSA: 1
+the Benzyl Isothiocyanate-Induced Antiproliferation: 1
+the HCT-116 Human Colorectal Cancer Cell Line: 1
+Yano: 1
+Murata: 1
+Nakamura: 1
+Nakamura Y(1)(4: 1
+School of Environmental and Life Science: 1
+Food Science and Technology: 1
+Dalian Polytechnic University: 1
+School of Interdisciplinary Science and Engineering: 1
+School of Environmental, Life, Natural Science and Technology: 1
+Related Proteins: 1
+Gastrointestinal Malignancies: 1
+Wntpathway: 1
+Wnt: 1
+Wnt2: 1
+FZD2: 1
+FZD6: 1
+FZD: 1
+Characterization for Colorectal Cancer: 1
+Safari F(1: 1
+Goudarzi: 1
+Abolghasemi H(3: 1
+Mohammad HA(4: 1
+Akrami M(5: 1
+Chemical Engineering: 1
+Alborz Campus: 1
+2)Department of Biotechnology & Pharmaceutical Engineering: 1
+School of Chemical 
+Engineering: 1
+Nano-Computations, School of 
+Chemical Engineering: 1
+Pharmaceutics, College of Pharmacy, University of Al-Qadisiyah: 1
+Al Diwaniyah: 1
+Pharmaceutical Biomaterials: 1
+Medical Biomaterials Research 
+Center: 1
+Pharmacology and Toxicology, Faculty of Pharmacy, International 
+Campus: 1
+Tehran University: 1
+Soluplus®: 1
+TGA: 1
+Young: 1
+Bufalin Suppresses: 1
+Inhibiting De Novo 
+Fatty Acid Synthesis: 1
+the PI3K/AKT-Mediated SREBP1/FASN Pathway: 1
+Pang: 1
+Li X(3: 1
+Zhang J(5: 1
+Wu P(1: 1
+Integrative Traditional Chinese: 1
+Medicine, Nankai University: 1
+Integrative Medicine: 1
+Tianjin University of Traditional Chinese 
+Medicine: 1
+Oncology Center: 1
+Nankai University: 1
+Key Laboratory of Component-Based Chinese Medicine: 1
+Tianjin University: 1
+8)The Institute of Translational Medicine: 1
+9)Tianjin Institute of Coloproctology: 1
+De novo: 1
+LoVo: 1
+inhibiting de novo: 1
+Lockhart C(1: 1
+Klimov DK(1: 1
+Systems Biology: 1
+George Mason University: 1
+VA 22020: 1
+Biomedical Engineering and Technology: 1
+University of Maryland 
+School of Medicine: 1
+MD 21201: 1
+phi663: 1
+ATP: 1
+Zalzal RN(1: 1
+Fakhruddin N(2: 1
+Mahfouz R(2: 1
+Medicine, American University of Beirut: 1
+Pathology and Laboratory Medicine: 1
+American University: 1
+Beirut Medical Center: 1
+Network Meta-Analysis: 1
+Altobelli E(1: 1
+Varesini PA(3: 1
+Bianchi Z(4: 1
+Masedu F(5: 1
+Public Health Unit: 1
+Department of Life, Health 
+and Environmental Sciences: 1
+University of L'Aquila: 1
+Piazzale Salvatore Tommasi: 1
+Cardiac Anesthesia: 1
+the IRCCS Humanitas 
+Research Hospital: 1
+Rozzano: 1
+Specializzazione: 1
+Bicocca 
+University: 1
+Giuseppe Murri Hospital AST Fermo: 1
+Augusto Murri: 1
+Applied Clinical Sciences and Biotechnology, University of 
+L'Aquila: 1
+Via Vetoio: 1
+CTC SMD: 1
+Immunohistochemical: 1
+Inflammatory Profiles: 1
+Barbu A(1): 1
+Antonie NI(1)(2: 1
+Georgescu TF(1)(3: 1
+Bratu: 1
+Diaconu CC(4: 1
+Mambet C(1)(4)(5: 1
+Bleotu 
+C(4)(6)(7: 1
+Diaconu: 1
+Medicine, University of Medicine and Pharmacy Carol Davila 
+Bucharest: 1
+Medicine Department: 1
+Cellular: 1
+Stefan S. Nicolau Institute: 1
+Virology, Romanian Academy: 1
+030304 Bucharest: 1
+Emergency University Clinical Hospital of Bucharest: 1
+6)Research Institute of the University of Bucharest: 1
+ICUB: 1
+University of 
+Bucharest: 1
+Romanian Scientists: 1
+Anatomical Pathology: 1
+MLH1: 1
+PLR: 1
+NLR: 1
+Colorectal Cancer Survivors: 1
+Duangchan: 1
+Abboud S(2: 1
+Jeremiah RD(2: 1
+Gorman G(2: 1
+Agrarajakumari Faculty of Nursing: 1
+Chulabhorn Royal Academy: 1
+University of Illinois Chicago: 1
+IL 60612: 1
+Medicine Siriraj Hospital: 1
+Mahidol University: 1
+Columbia University: 1
+Spatial-Temporal Trends of Cancer Among Women: 1
+Disaster and Public Health: 1
+Cvetković VM(2)(3)(4: 1
+Kričković: 1
+Lukić T(6)(7: 1
+Geography, University of Belgrade,: 1
+Studentski: 1
+Disaster Management and Environmental Security: 1
+Security Studies: 1
+University of Belgrade: 1
+Gospodara Vučića: 1
+Disaster Studies: 1
+Department of Environmental and Energy Process 
+Engineering: 1
+Technical University: 1
+Franz Josef-Straße: 1
+Leoben: 1
+Geographical: 1
+Stevan Bošković: 1
+Geography, Tourism and Hotel Management, Faculty of Sciences: 1
+University of Novi Sad: 1
+Trg Dositeja Obradovića: 1
+Bošković School: 1
+Kneza Višeslava 17: 1
+Mann-Kendall: 1
+Sen: 1
+Emerging Innovations: 1
+Büsselberg D(2: 1
+Faculty of Sciences: 1
+Taraba State 
+University: 1
+Main Campus: 1
+Cornell Medicine-Qatar: 1
+Qatar Foundation: 1
+Doha P.O. Box 22104: 1
+Fermented Plant-Based 
+Beverages: A Comparative Study of Tiger Nut: 1
+Carob: 1
+Rice Beverages: 1
+Colorectal Adenocarcinoma Cells: 1
+Vitali: 1
+Gandía M(1: 1
+Cilla: 1
+Food Technology Area: 1
+Faculty of Pharmacy and Food 
+Sciences: 1
+Vicente Andrés Estellés: 1
+Nutrition and Food Science Area: 1
+Pharmacy and Food Sciences: 1
+Vicente Andrés Estellés 
+s: 1
+SubG1: 1
+Colorectal Cancer and Food-Related 
+Intervention Strategies: 1
+Wei ZJ(2)(3: 1
+Fan G(1: 1
+Food and Health: 1
+Beijing Technology and Business University: 1
+Biological Engineering: 1
+Hefei University of Technology: 1
+Biological Science and Engineering: 1
+North Minzu University: 1
+Yinchuan 750021: 1
+the Need for Prehabilitation in Cancer Patients Undergoing 
+Nephrectomy: 1
+Jensen BT(1)(2: 1
+Hjort PB(1)(3: 1
+Melchiorsen K(1: 1
+Thaysen HV(2)(4: 1
+Larsen 
+I(1: 1
+Lorenzen M(1: 1
+Knudsen: 1
+Keller AK(1)(3: 1
+Center for Research: 1
+Aarhus 
+University: 1
+Aarhus University: 1
+NRS 2002: 1
+Clinical Frailty Scale: 1
+STS: 1
+Chang MW(1: 1
+Wang AW(2: 1
+Chang CS(3: 1
+Psychiatry, Far Eastern Memorial Hospital: 1
+Soochow University: 1
+Chang Bing Show: 1
+Komaranchath AS(5: 1
+Khalil C(6: 1
+Iqbal F(6: 1
+Abdelwahab SI(7: 1
+Abuhelwa AY(8: 1
+Gandikota: 1
+Al-Shamsi 
+: 1
+Mediclinic City Hospital: 1
+Dubai P.O. Box 505004: 1
+Oncology Society: 1
+Dubai P.O. Box 6600: 1
+Cancer Society: 1
+P.O. Box: 1
+Alsafa: 1
+Clemenceau Medical Center: 1
+Burjeel Hospital Oman: 1
+Burjeel Medical City: 1
+Abu Dhabi P.O. Box 92510: 1
+Pharmacy Practice: 1
+Pharmacotherapeutics, University of 
+Sharjah: 1
+Therapeutics Pvt. Ltd.: 1
+8th Floor: 1
+Shaw Medical Center: 1
+Narayana Hrudayalaya Health City: 1
+Dana-Farber Cancer Institute: 1
+Harvard 
+Medical School: 1
+MA 02215: 1
+Medical School: 1
+MA 20138: 1
+Ras Al Khaimah Medical and Health Sciences University: 1
+Al Juwais: 1
+Al Qusaidat: 1
+Ras Al Khaimah: 1
+Medicine, Gulf Medical University: 1
+Ajman P.O. Box 4184: 1
+Medicine, University of Sharjah,: 1
+FDA: 1
+Lakshmikanth Gandikota: 1
+Immuneel Therapeutics Pvt: 1
+Tomaszewski: 1
+Petroziello M(3: 1
+Hasan O(3: 1
+Hennon: 1
+Dexter E(1: 1
+Gupta: 1
+Grand'Maison: 1
+Thoracic Surgery: 1
+Pediatric Hematology: 1
+Roswell Park Comprehensive: 1
+Erie County Medical Center,: 1
+Suffusion 
+Technologies: 1
+Lumeda, 
+Inc.: 1
+AstraZeneca (E.D.: 1
+A Conversational Artificial Intelligence: 1
+Pathway-Centric 
+Analysis of TP53-Driven Molecular Alterations: 1
+Hispanic/Latino EOCRC: 1
+Insult: 1
+Cancer Surgery: 1
+Schultz KS(1)(2: 1
+Linhares SM(1: 1
+Park EY(1: 1
+Godfrey EL(1: 1
+Dhanda: 1
+Epstein: 1
+Blake KBT(1: 1
+Zaheer: 1
+Colon & Rectal Surgery: 1
+Department of Surgery: 1
+Yale School: 1
+Medicine Ph.D. Program: 1
+Yale Graduate School of Arts: 1
+CT 06511: 1
+Health Policy and Management: 1
+the Social Vulnerability Index: 1
+Friedrich JR(1: 1
+Meier C(1: 1
+Plotz G(1: 1
+Zeuzem S(1: 1
+Brieger A(1: 1
+Overby: 1
+Research Laboratory: 1
+Medical Clinic 1: 1
+University Hospital: 1
+DEAD: 1
+H/ACA: 1
+NHP2: 1
+BioMarin: 1
+Gilead: 1
+Ipsen: 1
+Madrigal: 1
+MSD/Merck: 1
+NovoNordisk: 1
+SoBi: 1
+Putative Role: 1
+Colorectal Cancer 
+Progression Through Enhancement of Angiogenesis and Metastasis: 1
+Ali EAM(1: 1
+Talaat IM(1)(3)(4: 1
+Hamoudi R(1)(2)(3)(5)(6: 1
+Institute of Medical and Health Sciences: 1
+Excellence for Precision Medicine, Research Institute of Medical 
+and Health Sciences: 1
+College of Medicine, University of Sharjah: 1
+Alexandria University: 1
+Alexandria: 1
+Interventional Science, University College London: 1
+London NW3: 1
+Informed Artificial Intelligence Laboratory: 1
+Dose-Dependent Effects of Irradiation on Endothelial: 1
+Endothelial Cells: Transcriptional: 1
+Santek: 1
+Sersa G(1)(3: 1
+Experimental Oncology: 1
+Institute of Oncology Ljubljana: 1
+Medicine, University of Ljubljana: 1
+Vrazov: 1
+3)Faculty of Health Sciences: 1
+University of Ljubljana: 1
+Zdravstvena: 1
+Faculty, University of Ljubljana: 1
+Jamnikarjeva: 1
+Hoechst: 1
+Interferon Response: 1
+Vascular: 1
+HUVEC: 1
+STING1: 1
+WNT Pathway Alterations: 1
+Diaz FC(1: 1
+Carranza FG(2: 1
+Manjarrez S(2: 1
+Comprehensive Cancer Center: 1
+University of North Carolina: 1
+H/L EOCRC: 1
+H/L: 1
+Moskalenko: 1
+Chernykh M(2: 1
+Ichshanov: 1
+Malinina K(3: 1
+State Budgetary Healthcare Institution: 1
+Moscow City Hospital Named: 1
+S.S. Yudin: 1
+Moscow Healthcare Department: 1
+N.N. Blokhin National Medical Research Center: 1
+the Ministry of Health of the Russian Federation: 1
+Biological Microchips: 1
+Engelhardt Institute of Molecular 
+Biology: 1
+Russian Academy of Sciences: 1
+Oncology and Palliative Medicine Named After: 1
+Academician A.I. 
+Savitsky: 1
+Russian Medical Academy of Continuous Professional Education: 1
+Novokuznetsk State Institute for Postgraduate Medical 
+Education: 1
+Grade ≥: 1
+BED: 1
+Ksenia Malinina: 1
+Limited 
+Liability Company: 1
+Puvanenthiran S(2: 1
+Seddon AM(1: 1
+Bagwan: 1
+Modjtahedi: 1
+Kingston University: 1
+London KT1 2EE: 1
+Life Sciences: 1
+Oxford Brookes University: 1
+Oxford OX3 
+0BP: 1
+Surrey Pathology Services: 1
+Royal Surrey Hospital: 1
+Guildford GU2 
+7XX: 1
+4)St Luke's: 1
+Royal Surrey County Hospital: 1
+Guildford GU2 7XX: 1
+mAbs: 1
+Overcoming Resistance: 1
+de Menezes JSA(3: 1
+Conceição LD(1: 1
+Almeida 
+LFC(1: 1
+Belotto M(5: 1
+Biachi de Castria T(6)(7: 1
+Medical Sciences, Universidade Federal Fluminense: 1
+Niteroi: 1
+2)Department of Medical Sciences, Universidade Federal do Ceará: 1
+Medical Sciences, Universidade Federal da Bahia: 1
+Hospital: 1
+SP: 1
+College of Medicine, University of South Florida: 1
+BC Cancer Agency: 1
+Nouveau-Brunswick: 1
+Université de Sherbrooke: 1
+Moncton: 1
+NB: 1
+the PI3K: 1
+Tiago Biachi de 
+Castria: 1
+Merck Sharp: 1
+& Dohme Corp.: 1
+Open Challenges: 1
+Valsecchi: 1
+Duregon: 1
+Di Celle PF(5: 1
+Cassoni: 1
+Bardelli: 1
+Di Maio: 1
+Ospedale Molinette: 1
+The AIRC Institute of Molecular Oncology: 1
+MBC: 1
+Department of Medical Sciences: 1
+NSCLC: 1
+Kither Biotech: 1
+M.D.M.: 1
+Merck Sharp & Dohme: 1
+Novartis: 1
+GlaxoSmithKline: 1
+Eisai: 1
+Daiichi Sankio: 1
+M.P.: 1
+Gonzalez Gomez: 1
+Magge T(1: 1
+Overacre A(4)(5: 1
+Hsieh R(6)(7: 1
+Mcfarquhar: 1
+Tatsuoka C(1: 1
+Internal Medicine, University of Pittsburgh Medical Center: 1
+3)UPMC: 1
+Immunology, School of Medicine, University of Pittsburgh: 1
+Hutchinson Cancer Center: 1
+University of Washington: 1
+Medicine, School of Medicine, University of Washington: 1
+Tumor: 1
+TMB: 1
+TMB > 20: 1
+CNV: 1
+de 
+novo: 1
+I.H.S.: 1
+Advisory Board: 1
+Seattle Genetics: 1
+Guardant Health and Lumanity: 1
+BAYER: 1
+Clovis, Exelixis: 1
+Incyte 
+Corporation: 1
+Amgen: 1
+KAHR: 1
+Biontech: 1
+the Treatment of Colorectal Hepatic Metastases: 1
+Kyriakides OM(3: 1
+Holländer: 1
+Laschke 
+MW(2: 1
+Glanemann M(4): 1
+Gäbelein: 1
+Campus Charité Mitte: 1
+Campus Virchow Klinikum: 1
+Charité 
+Universitätsmedizin Berlin: 1
+Saarland University: 1
+PSH: 1
+Medical Biometry: 1
+Medical Informatics: 1
+OXP: 1
+GC-MS Analysis: 1
+Acevedo CMD(1: 1
+Gómez: 1
+Bautista Gómez: 1
+Ramírez RF(3: 1
+Systems: 1
+Pattern Recognition Research Group: 1
+Architecture, University of Pamplona: 1
+Engineering Group: 1
+Faculty of Engineering: 1
+University of Pamplona: 1
+3)Secretaria de Ciencia: 1
+Humanidades: 1
+Coordinación Para la Innovación: 1
+Tecnología: 1
+Avenida Sierra Leona: 1
+Lomas Segunda: 1
+SPME: 1
+PCA: 1
+PLS-DA: 1
+k-NN: 1
+LDA: 1
+Conditions of Physiological Folate: 1
+Ma X(2: 1
+Li W(3: 1
+D'Agostino: 1
+Rees MG(5: 1
+Ronan MM(5: 1
+Gmeiner WH(1: 1
+Orthopedic Surgery: 1
+Public Health Sciences: 1
+Wake 
+Forest University School of Medicine: 1
+Institute of MIT: 1
+Harvard: 1
+ATR: 1
+Chk1: 1
+FdUMP: 1
+TAS-102: 1
+the Broad Institute: 1
+W.H.G.: 1
+Immune Modulation: 1
+Shigematsu: 1
+Takamatsu 
+M(3)(4: 1
+Takahashi Y(7: 1
+Miura Y(1: 1
+Takahashi: 1
+Inamura K(3)(4)(5: 1
+Medical Oncology,: 1
+Clinical Chemotherapy: 1
+Cancer Chemotherapy Center: 1
+Tumor Pathology: 1
+Jichi Medical University: 1
+Shimotsuke 329-0431: 1
+Saitama Cancer Center: 1
+Komuro: 1
+Ina: 1
+Kita: 1
+Project for Molecular Targets, Cancer Institute: 1
+ETBF-DNA group: 1
+Yasuyuki Shigematsu: 1
+LabCorp: 1
+Wakefield MR(2)(3: 1
+Fang: 1
+Microbiology, Immunology & Pathology: 1
+Des Moines University: 1
+Surgery, University of Missouri School of Medicine: 1
+Fischel Cancer Center: 1
+University of Missouri School of Medicine: 1
+Histological Features: 1
+Parente P(1: 1
+Angerilli: 1
+Grillo F(4)(5: 1
+Ambrosio MR(6)(7: 1
+Petrelli 
+F(7: 1
+Antoci: 1
+Scarpino: 1
+Adotti: 1
+Veccia N(11: 1
+Caputo: 1
+Giobbe M(12: 1
+Gafà R(14: 1
+Melocchi L(15: 1
+Pasculli B(16: 1
+Macciomei MC(11: 1
+Lanza G(14: 1
+Fassan M(3)(20: 1
+Unit,: 1
+Fondazione IRCCS Ospedale Casa Sollievo: 1
+Della Sofferenza: 1
+Department of Medicine, University of Padua: 1
+ULSS2 Marca Trevigiana: 1
+Piazzale Ospedale 1: 1
+4)Anatomic Pathology Unit: 1
+Department of Surgical Sciences: 1
+DICS: 1
+University of Genova: 1
+Neuroscience: 1
+Ospedaliera Universitaria: 1
+Annunziata: 1
+University of Calabria: 1
+UNICAL: 1
+Via Migliori 1: 1
+Cosenza: 1
+Toscana: 1
+Nord Ovest: 1
+Via Cocchi: 1
+8)SC Anatomia Patologica: 1
+Via Carlo 
+: 1
+Clinical and Molecular Medicine: 1
+Sapienza" University of Rome: 1
+UOC Anatomia Patologica: 1
+Ospedaliera-Universitaria: 1
+Via di Grottarossa 1035: 1
+Experimental Medicine: 1
+Sapienza University of Rome: 1
+Viale 
+Regina Elena: 1
+Anatomia Patologica: 1
+San Camillo: 1
+Circonvallazione Gianicolense: 1
+Medica Salernitana': 1
+University of Salerno: 1
+Via S. Allende: 1
+University Hospital of Salerno: 1
+14)Anatomic Pathology Unit: 1
+Department of Translational Medicine, University: 1
+Azienda Ospedaliero-Universitaria S. Anna: 1
+Aldo Moro: 1
+Fondazione Poliambulanza Instituto Ospedaliero: 1
+Via Leonida: 1
+Brescia: 1
+Oncology Fondazione IRCCS Ospedale Casa Sollievo: 1
+Croci Hospital: 1
+Viale Randi 5: 1
+University of Bologna: 1
+Via Inerio: 1
+Department of Molecular Medicine, University: 1
+Institute of Oncology: 1
+IOV-IRCCS: 1
+Viale Gattamelata: 1
+Padua: 1
+NOS: 1
+Bravo-Estupiñan: 1
+Geiß C(6: 1
+Arias-Arias JL(2: 1
+Montaño-Samaniego: 1
+Chinchilla-Monge R(4: 1
+Marín-Müller C(8: 1
+Quirós-Barrantes S(2)(4: 1
+Régnier-Vigouroux A(6: 1
+Ibáñez-Hernández M(3: 1
+Mora-Rodríguez RA(2)(4)(6: 1
+de Doctorado: 1
+Sistema de Estudios de Posgrado: 1
+SEP: 1
+Universidad de Costa Rica: 1
+LQT: 1
+Centro de Investigación: 1
+Enfermedades Tropicales (CIET: 1
+Facultad de Microbiología: 1
+de Terapia Génica: 1
+Departamento de Bioquímica: 1
+Instituto Politécnico Nacional: 1
+Sto Tomás: 1
+Miguel Hidalgo: 1
+Ciudad de México: 1
+Cirugía: 1
+Cáncer: 1
+5)Centro Nacional de Innovaciones Biotecnológicas: 1
+Pavas: 1
+Developmental Biology and Neurobiology: 1
+Gutenberg 
+University: 1
+7)Laboratorio de Técnicas Fototérmicas: 1
+Departamento de Ciencias Básicas: 1
+Instituto Politécnico 
+Nacional: 1
+Biopharma, Inc.: 1
+Centro Nacional de Innovación Biotecnológica 
+Nacional: 1
+miR-19a: 1
+Christian Marín-Müller: 1
+Speratum Biopharma: 1
+Kinase: 1
+Muntaqua: 1
+Ahmad N(1)(2: 1
+Dermatology, University of Wisconsin: 1
+2)William S. Middleton Memorial: 1
+YLZ: 1
+Gastric Cancer 
+Incidence: 1
+Silva: 1
+Leite-Silva: 1
+Libânio: 1
+Dinis-Ribeiro M(2)(7: 1
+Unidade Local de Saúde Gaia e Espinho: 1
+Vila Nova de Gaia: 1
+Faculty of Medicine, University of Porto,: 1
+IPO Porto 
+Research Center: 1
+CI-IPOP: 1
+IPO Porto: 1
+Screening Coordinator Center - Portuguese National Health Service 
+Executive Board: 1
+Studies Department: 1
+School of Medicine and Biomedical Sciences: 1
+ICBAS: 1
+University of Porto, Porto: 1
+PreCAM: 1
+IPO Porto) & Porto 
+: 1
+CCC: 1
+the Portuguese National Cancer Registry: 1
+Nawa N(2: 1
+Nakaya T(4)(5: 1
+Fujisaka Y(6: 1
+Fushimi K(7: 1
+Fujiwara: 1
+Cohort Research: 1
+National Cancer Center Institute: 1
+2)Department of Public Health, Institute of Science Tokyo: 1
+School of Environmental Studies: 1
+School of Science: 1
+Osaka Medical and Pharmaceutical University: 1
+Health Policy and Informatics: 1
+Institute of Science Tokyo: 1
+Graduate School of Medical: 1
+Dental Sciences: 1
+the Diagnosis Procedure Combination: 1
+Japan Society of Clinical 
+Oncology: 1
+DPC: 1
+the Institute of Science Tokyo: 1
+Intrahepatic Cholangiocarcinoma: 1
+Outmani: 1
+Grunhagen: 1
+Merkow: 1
+Cavnar M(4): 1
+Hornstein 
+N(5: 1
+Groot Koerkamp B(2: 1
+Gholami S(6: 1
+Surgical Oncology: 1
+Transplant: 1
+Erasmus MC Cancer Institute: 1
+Surgery, Surgical Outcomes: 1
+Quality Improvement Center: 1
+Northwestern University: 1
+Surgery, University of Kentucky: 1
+Medicine, Northwell Health: 1
+Northwell Health: 1
+Memorial Sloan Kettering Cancer Center: 1
+III: 1
+ABC: 1
+Society of Surgical Oncology: 1
+Support Care Cancer: 1
+Shao: 1
+Zhang M(4): 1
+Ma B(6: 1
+Wang K(4: 1
+Zhang C(7: 1
+Li M(8: 1
+Chen C(9: 1
+Wang T(10)(11)(12: 1
+2)The College of Nursing and: 1
+Health of Zhengzhou University: 1
+3)Tongji Hospital: 1
+Tongji University School of Medicine: 1
+4)The First Affiliated Hospital: 1
+Molecular and Forensic Sciences: 1
+Murdoch University: 1
+Murdoch: 1
+Bio-Repository: 1
+The Affiliated Cancer Hospital: 1
+Zhengzhou 
+University: 1
+9)The First Affiliated Hospital: 1
+10)The College of Nursing and Health of Zhengzhou University: 1
+11)The Kids Research Institute: 1
+School, University of Western Australia: 1
+Hospitals: 1
+ANOVA: 1
+the Family Resilience Questionnaire: 1
+the Family APGAR Scale (Adaptation: 1
+the Mutuality Scale: 1
+SPSS: 1
+Springer-Verlag GmbH Germany: 1
+the Life Sciences Ethics Review Committee: 1
+Rodríguez-Sojo: 1
+García-García: 1
+Ho-Plagaro A(3)(4: 1
+García: 1
+Vezza: 1
+Redondo-Cerezo: 1
+Marchal JA(3)(9: 1
+Rodríguez-Cabezas ME(10)(11: 1
+Rodríguez-Nogales: 1
+Gálvez J(14)(15)(16: 1
+Biomédica de Málaga: 1
+Nanomedicina-IBIMA: 1
+Málaga: 1
+Hospital Universitario Virgen de las Nieves: 1
+Microbiología,: 1
+Hospital Universitario Clínico San Cecilio: 1
+Red de Enfermedades Infecciosas: 1
+Biochemistry and Molecular Biology 2: 1
+Faculty of Pharmacy: 1
+Campus de Cartuja s/n: 1
+Genomics and Oncological Research: 1
+Pfizer/University: 1
+Human Anatomy and Embryology, Biopathology and Regenerative 
+Medicine Institute: 1
+IBIMER: 1
+Center for Biomedical Research: 1
+Red de Enfermedades Hepáticas: 1
+Digestivas: 1
+CIBEREHD: 1
+HCT116 and CMT93: 1
+The Shanghai Institute: 1
+Materia Medica: 1
+Chinese Pharmacological Society: 1
+Kalaba MH(2: 1
+Shaban AS(3: 1
+Elrefaey AA(1: 1
+Mahdy HM(1: 1
+Haikal 
+A(4: 1
+2)Botany and Microbiology Department: 1
+Pharmacognosy, Faculty of Pharmacy, Mansoura University: 1
+Mansoura: 1
+UPLC-MS/MS: 1
+AO/PI: 1
+Randomized Controlled Trials: 1
+Lenz: 1
+Pereira RA(2: 1
+Valagni: 1
+Biachi de Castria T(4: 1
+Medicine, AdventHealth: 1
+José Dos Campos: 1
+São Paulo: 1
+Ascension Saint Joseph Hospital: 1
+Morsani College of Medicine, University of South: 1
+ASA: 1
+PI3K: 1
+PI3K 
+mutations: 1
+Coronary Functional 
+Testing: 1
+Wallace: 1
+Waksman: 1
+Hashim HD(2: 1
+Case BC(3: 1
+Georgetown University Hospital: 1
+Disclosures Dr 
+Waksman: 1
+JC Medical: 1
+MedAlliance/Cordis: 1
+SIS Medical AG: 1
+Transmural Systems Inc: 1
+Biotronik: 1
+Transmural Systems Inc.: 1
+Dr Case: 1
+Asahi Intecc USA: 1
+Zoll Medical: 1
+Colorectal Carcinogenesis: 1
+Chen Y(1: 1
+Yuan M(1: 1
+Kong X(3: 1
+Pang B(4: 1
+2)Xiyuan Hospital: 1
+4)Xiyuan Hospital: 1
+IFN: 1
+the IL-17/IL-22: 1
+STAT3: 1
+Nutr: 1
+Colorectal Adenoma: 1
+Placebo-Controlled Trial: 1
+Meng S(1: 1
+Liu C(2: 1
+Zhang K(3: 1
+Li J(4: 1
+Wang Y(7: 1
+Du 
+M(8: 1
+Li C(9: 1
+Wang Y(10: 1
+Lu W(11: 1
+Zhu Y(12: 1
+lcliuchen6754@163.com: 1
+Nankai Hospital: 1
+Bacteroidetes: 1
+Ruminococcaceae: 1
+Bifidobacteriaceae: 1
+Bifidobacterium: 1
+Tianjin Nankai Hospital: 1
+American Society for Nutrition: 1
+National Natural Science Foundation of China: 1
+CNS-ZD Tizhi and Health Fund: 1
+Cancer Lett: 1
+Wang X(2: 1
+Zhang Q(2: 1
+Ji X(4: 1
+Li Z(2: 1
+Li Y(2: 1
+Zhang P(2: 1
+Che X(2: 1
+Department of Quality 
+Management: 1
+Shougang Hospital: 1
+Cardiology and Institute of Vascular Medicine: 1
+University Third Hospital: 1
+baiyun@bjmu.edu.cn: 1
+Holzhausen EA(1: 1
+Young N(1: 1
+Platz EA(2: 1
+Walker DI(3: 1
+Liang D(3: 1
+Aung M(4): 1
+Goodrich JA(4: 1
+Setiawan VW(4: 1
+Marchand LL(5: 1
+Huang 
+BZ(4: 1
+Conti DV(4: 1
+Alderete TL(6: 1
+Johns Hopkins Bloomberg School of Public Health: 1
+Department of Environmental Health: 1
+Population and Public Health Sciences: 1
+Keck School of Medicine: 1
+University of Southern California: 1
+5)Epidemiology Program: 1
+University of Hawaii Cancer Center: 1
+Lida Chatzi: 1
+Bisphenol A: 1
+Yang K(1: 1
+Li Z(1: 1
+Gao Y(1: 1
+Huang 
+Z(1: 1
+Du Y(2: 1
+Zhuang B(4: 1
+Rong X(5: 1
+Oncology, Changde Hospital: 1
+Changde Hospital: 1
+North of Guangzhou Avenue: 1
+CAF: 1
+GAPDH: 1
+CEBPB: 1
+EGR1: 1
+DCN: 1
+Isonne: 1
+Sinopoli A(2: 1
+Iera J(4: 1
+Villari P(1: 1
+Prevention, Local Health Authority Rome 1: 1
+Management and Health Laboratory: 1
+Institute of Management: 1
+School of Advanced Studies: 1
+Pisa: 1
+Life Sciences, Health: 1
+Health Professions: 1
+Link Campus 
+University: 1
+Drug Resist Updat: 1
+Meng: 1
+Dong B(3: 1
+Shou C(6: 1
+Central Laboratory: 1
+5)Key Laboratory of Carcinogenesis and: 1
+zhaochk@bjmu.edu.cn: 1
+Laboratory of Carcinogenesis and: 1
+Gamma-synuclein: 1
+SPR: 1
+synergistically: 1
+Total Mesorectal Excision: 1
+Choi KH(1: 1
+Kim SH(2: 1
+Jang: 1
+Lee JH(2: 1
+Yu M(3: 1
+Kye BH(2: 1
+Kim HJ(5: 1
+Lee YS(1: 1
+Lee IK(1: 1
+Cho HM(1: 1
+Bucheon St. Mary's: 1
+Gyeongsang National University Hospital: 1
+Gyeongsang National University College of Medicine, Jinju: 1
+Eunpyeong St. Mary's: 1
+cT3: 1
+P=0.109: 1
+Annu Rev Med: 1
+Wertheim School of Public Health and Longevity Science, University: 1
+Tamar Manoukian Division: 1
+Department of 
+Medicine: 1
+David Geffen School: 1
+Greater Los Angeles Healthcare System: 1
+Kaiser Permanente Center for Health Equity: 1
+Jonsson Comprehensive: 1
+US Food and Drug Administration: 1
+Liu K: 1
+Wang H: 1
+Cao X.
+
+: 1
+Simões-Sousa S(1: 1
+Amin N(1: 1
+Lane KA(1: 1
+Harrod A(1: 1
+Pedersen M(2: 1
+Pardo: 1
+Rasetti-Escargueil C(2: 1
+Kozik Z(1: 1
+Begg KAG(1: 1
+Ribeiro A(3: 1
+Stucki M(3: 1
+Harrington KJ(2: 1
+Choudhary JS(1: 1
+Downs JA(5: 1
+Gynecology, University of Zurich: 1
+University Hospital 
+Zurich: 1
+Marsden Hospital NHS Trust: 1
+BAF: 1
+Liu B(1: 1
+Wu Y(2: 1
+Xiang A(3: 1
+Song S(5: 1
+Zhang Y(6): 1
+Gu J(5: 1
+Lu H(7: 1
+Liu F(9: 1
+Ruan: 1
+Second Department: 1
+Gastric Surgery: 1
+Shanghai Cancer Center: 1
+Center and Endoscopy Research Institute: 1
+Fudan 
+University: 1
+5)NHC Key Laboratory of Glycoconjugates Research: 1
+Key Laboratory of Glycoconjugates Research, School of Basic Medical 
+Sciences: 1
+ying@fudan.edu.cn: 1
+7)NHC Key Laboratory of Glycoconjugates Research, School of Basic Medical 
+Sciences: 1
+8)State Key Laboratory of Proteomics: 1
+Beijing Proteome Research Center: 1
+National Center for Protein Sciences: 1
+Beijing Institute of Lifeomics: 1
+9)Second Department: 1
+Fudan University Shanghai Cancer 
+Center: 1
+Li K(1: 1
+Zang: 1
+Zhang G(1: 1
+Xu L(1: 1
+Lu J(1: 1
+Xing J(4: 1
+Feng B(3: 1
+Sun Y(5: 1
+Du X(6: 1
+Chi P(7: 1
+Wang Z(9)(10: 1
+Zhang Y(11: 1
+Zhang Z(12: 1
+Zheng M(3: 1
+Su X(13: 1
+Xiao Y(1: 1
+RELARC Study Group: 1
+Department of General Surgery: 1
+Peking Union 
+Medical College Hospital: 1
+Chinese Academy of Medical Sciences & Peking Union 
+Medical College: 1
+Department of Unit III & Ostomy Service: 1
+Gastrointestinal Cancer 
+Center: 1
+Ruijin Hospital: 1
+Gastrointestinal Cancer Center: 1
+Peking University Cancer 
+Hospital & Institute: 1
+the First Medical Center: 1
+Fujian Medical University Union Hospital: 1
+Zhongshan Hospital Fudan University: 1
+Prevention and Early Intervention, National Infrastructures: 1
+Translational Medicine, Institute of Clinical Medicine: 1
+Key Laboratory of Holistic Integrative Management of Gastrointestinal 
+Cancers: 1
+Beijing Key Laboratory of Carcinogenesis and: 1
+Department of Gastrointestinal Surgery IV: 1
+the Radical Extent: 1
+Laparoscopic Right Colectomy: 1
+Conflict of Interest: 1
+Yang X(3: 1
+Ji Z(1: 1
+Wenzhou Medical 
+University: 1
+2)Key Laboratory of Minimally Invasive Techniques & Rapid Rehabilitation: 1
+Wenzhou Medical University: 1
+TCGA: 1
+Lasso: 1
+KEGG: 1
+CellMiner: 1
+Basal: 1
+Boron Containing Curcumin-Like Compound: 1
+Acetylcholinesterase Inhibitor: 1
+Biological Evaluation: 1
+Computational Insights: 1
+Comert Onder: 1
+Onder A(4: 1
+Medical Biology, Faculty of Medicine: 1
+Onsekiz Mart: 1
+Çanakkale: 1
+Medical System Biology: 1
+School of Graduate Studies: 1
+Nanomedicine: 1
+Houston Methodist Research Institute: 1
+RMSD: 1
+AChE: 1
+Buczyńska: 1
+Mojsak M(4: 1
+Zuzda K(6: 1
+Gugnacki: 1
+Krętowski: 1
+Sierko E(9)(10: 1
+Maria Skłodowska-Curie Bialystok: 1
+Anesthesiology and Intensive Care: 1
+National Medical Institute: 1
+The Ministry of Interior and Administration: 1
+Otolaryngology: 1
+Maxillofacial Surgery: 1
+Jędrzej Śniadecki: 1
+Regional Specialist Hospital: 1
+Medical University of Bialystok: 1
+SUVmax: 1
+the Medical University: 1
+Institutional Review Board: 1
+Barriers & Facilitators: 1
+Perry M(1: 1
+Cropley: 1
+Dibb B(1: 1
+Faculty of Health and Medical Science, University: 1
+Surrey: 1
+OVID: 1
+ProQuest: 1
+Gastroenterol Hepatol: 1
+Screening Smarter: 1
+Colonoscopy: 1
+Tan: 1
+Lui RN(4)(5: 1
+Sekiguchi: 1
+Sung JJY(8: 1
+Chiu: 1
+3)Duke-NUS Medical School: 1
+Hepatology,: 1
+Digestive Disease: 1
+State Key Laboratory of Digestive Disease: 1
+Screening Center: 1
+8)Lee Kong Chian School of Medicine: 1
+Nanyang Technological University: 1
+Internal Medicine, College of Medicine: 1
+National Taiwan 
+University: 1
+National Taiwan University Hospital: 1
+Qiu S(1: 1
+Luo K(1: 1
+Chen R(2: 1
+Liu H(3: 1
+Basic Medical Science, School of Medicine: 1
+MOF: 1
+Stenhouse: 1
+DASA: 1
+Fluorescence: 1
+Stern-Volmer: 1
+Ksv: 1
+Bax: 1
+Health Expect: 1
+Co-Producing Practice Guidelines and Research Recommendations: 1
+Promote Earlier Diagnosis of Colorectal Cancer in Community Pharmacies: 1
+Brunsdon E(1: 1
+Hollyfield S(2: 1
+Venkat SC(3: 1
+Kaushal: 1
+Hamilton: 1
+Berkman: 1
+Rowley S(6: 1
+Husband A(2)(7: 1
+von Wagner: 1
+University College London: 1
+Pharmacy,: 1
+Newcastle University: 1
+Representative, Public Co-Applicant: 1
+NIHR Patient Safety Research Collaborative: 1
+NHS: 1
+GP: 1
+Nominal Group Technique: 1
+PATIENT: 1
+L. B.: 1
+Comprehensive Systematic Review: 1
+Meta-Analysis: 1
+Tokarski E(1: 1
+Conan PL(2: 1
+Picchi H(3: 1
+Peroux E(5: 1
+Ezanno: 1
+Digestive Surgery: 1
+Infectious Diseases: 1
+Military Heath Service Academy: 1
+Val De Grâce: 1
+Saint-Mandé: 1
+Univ Rennes: 1
+OSS: 1
+Karahan S(1: 1
+Sommavilla J: 1
+See Video Abstract: 1
+Colorectal Adenoma Among Average-Risk Women: 1
+Gomez MF(1)(3: 1
+Hogue: 1
+Burns JR(4: 1
+Smith N(1: 1
+Sampson 
+J(5: 1
+Wolf: 1
+Wan Y(5)(7: 1
+Warner: 1
+Jones K(5)(7: 1
+Kim Y(8: 1
+Shi J(5: 1
+Vogtmann E(5: 1
+H. Lee Moffitt Cancer Center: 1
+Public Health, University of South Florida: 1
+4)Non-Therapeutic Research Office: 1
+National Cancer Institute: 1
+National Institute of Health: 1
+Nutrition Science, Purdue University: 1
+Biomedical Research, Inc.: 1
+Frederick National Laboratory for Cancer 
+Research: 1
+Biostatistics and Bioinformatics: 1
+U.S. Government: 1
+Corrigendum] Lithium: 1
+Duraturo F(1: 1
+Delrio P(2): 1
+Rega: 1
+Liccardo R(1): 1
+Rossi GB(4: 1
+Genesio R(1: 1
+Nitsch L(1: 1
+Izzo P(1: 1
+De Rosa: 1
+Molecular Medicine and Medical Biotechnology: 1
+Naples Federico: 1
+IRCCS: 1
+Cura: 1
+Fondazione Giovanni Pascale̓ IRCCS: 1
+May;46(5):1913-23: 1
+the Editorial Office: 1
+RT-PCR: 1
+International 
+Journal of Oncology: 1
+Corrigendum: 1
+International Journal: 1
+Birth Defects Res: 1
+Sep;117(9):e2528: 1
+Maalouf E(1: 1
+Boutros T(2: 1
+Ghadban E(3: 1
+Medicine and Medical Sciences,: 1
+University of Balamand: 1
+Medicine and Medical Sciences: 1
+Holy Spirit University: 1
+Reconstructive Surgery: 1
+Saint George University: 1
+Familial: 1
+Yu Y(1: 1
+Li JY(2: 1
+Yan YZ(1: 1
+Jiang SS(1: 1
+Fei Q(3: 1
+Zhang YR(1: 1
+Zhao YX(1: 1
+Lv J(5: 1
+Zhao HP(1: 1
+College: 1
+Chang'an University: 1
+Spine Surgery: 1
+Xiao PT(1: 1
+Li CF(2: 1
+Liu YD(1: 1
+Zhong J(3: 1
+Cui XL(1: 1
+Imaging Center: 1
+The Third Affiliated Hospital of: 1
+Chinese Medicine: 1
+College of Basic Medical Sciences: 1
+Jilin 
+University: 1
+DLAT: 1
+modulating DLAT 
+expression: 1
+Cano: 1
+Duque JM(3: 1
+Seoane: 1
+Puga-Tejada M(5: 1
+Espinoza de Los 
+Monteros A(1)(6: 1
+Bermeo P(1: 1
+Junquera E(3: 1
+Pérez D(3: 1
+Martin-Delgado: 1
+Santelli M(1: 1
+Pérez C(7: 1
+Pérez Rivera FJ(8: 1
+Salud Integral: 1
+Católica de Santiago de Guayaquil: 1
+Guayaquil 090615: 1
+Gastroenterology,: 1
+Hospital Universitario: 1
+Hospital Universitario Lucus Augusti: 1
+Clinical Research & Biostatistics: 1
+Guayaquil: 1
+Biochemistry Service: 1
+Hospital Público de Verín: 1
+Universidad de Leon: 1
+Leon 24004: 1
+San Agustín University Hospital: 1
+Plasma Hcy: 1
+≤: 1
+L. Colonoscopy: 1
+Yellow: 1
+Serum Hcy: 1
+Pharmgenomics Pers Med: 1
+Therapeutic 
+Strategies: 1
+Cheng X(2: 1
+Chen M(3: 1
+Clinical College: 1
+Liaoning University of Traditional Chinese Medicine: 1
+Shenzhen Traditional Chinese Medicine Hospital: 1
+The Third Affiliated Hospital of Liaoning 
+University of Traditional Chinese Medicine: 1
+The Second Affiliated Hospital of Liaoning 
+University of Traditional Chinese Medicine: 1
+S1P: 1
+Non-Metastatic 
+Colorectal Cancer: A Pilot Study: 1
+Tahmasebi-Birgani: 1
+Saberi: 1
+Medical Genetics, School of Medicine: 1
+Jundishapur 
+University of Medical Sciences, Ahvaz: 1
+Molecular Research Center: 1
+Medical Basic Sciences Research 
+Institute: 1
+Folate: 1
+Association of Clinical Biochemists: 1
+China CDC Wkly: 1
+Cost-Effectiveness: 1
+Dong X(#)(2: 1
+Chen 
+X(1)(2: 1
+Cao: 1
+Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital: 1
+2)Chinese Academy of Medical Sciences Key Laboratory: 1
+Peking 
+Union Medical College: 1
+Jiangsu Key Lab: 1
+Cancer Biomarkers: 1
+Nanjing Medical University: 1
+Chinese Center for Disease Control and Prevention: 1
