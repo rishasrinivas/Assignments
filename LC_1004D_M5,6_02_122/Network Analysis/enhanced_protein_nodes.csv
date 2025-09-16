@@ -1,0 +1,12 @@
+protein_id,protein_name,protein_type,pathway,expression_level,molecular_weight,cellular_location,degree_centrality,betweenness_centrality,closeness_centrality,eigenvector_centrality
+BDNF,Brain-derived neurotrophic factor,Growth Factor,Neurotrophin signaling,High,27.0,Extracellular,0.4,0.0,0.625,0.3440325283090735
+COMT,Catechol O-methyltransferase,Enzyme,Dopamine metabolism,Medium,30.0,Cytoplasm,0.5,0.11703703703703704,0.6666666666666666,0.36877283384935033
+DRD2,Dopamine receptor D2,GPCR,Dopamine signaling,High,50.4,Membrane,0.6000000000000001,0.14148148148148149,0.7142857142857143,0.42125112729073444
+DRD3,Dopamine receptor D3,GPCR,Dopamine signaling,Medium,52.1,Membrane,0.5,0.01925925925925926,0.6666666666666666,0.39544741712599807
+DRD4,Dopamine receptor D4,GPCR,Dopamine signaling,Low,48.9,Membrane,0.8,0.47259259259259256,0.8333333333333334,0.46755457505956344
+GNAI1,G protein alpha inhibiting 1,G-protein,GPCR signaling,High,40.3,Membrane,0.4,0.05555555555555556,0.5882352941176471,0.2984563870952204
+GNB3,G protein beta 3,G-protein,GPCR signaling,Medium,37.0,Membrane,0.2,0.0,0.45454545454545453,0.14978729066017743
+MAOA,Monoamine oxidase A,Enzyme,Neurotransmitter metabolism,High,59.7,Mitochondria,0.30000000000000004,0.022222222222222223,0.5,0.14361244498762224
+SLC6A3,Dopamine transporter,Transporter,Dopamine reuptake,High,68.5,Membrane,0.30000000000000004,0.019259259259259257,0.5555555555555556,0.16062960674984705
+SLC6A4,Serotonin transporter,Transporter,Serotonin reuptake,Medium,70.3,Membrane,0.30000000000000004,0.019259259259259257,0.5555555555555556,0.16062960674984705
+KLHL12,Kelch-like protein 12,Regulatory,Protein degradation,Low,69.2,Cytoplasm,0.1,0.0,0.47619047619047616,0.09730899721879328

@@ -1,0 +1,12 @@
+protein_id	protein_name	protein_type	pathway	expression_level	molecular_weight	cellular_location
+BDNF	Brain-derived neurotrophic factor	Growth Factor	Neurotrophin signaling	High	27.0	Extracellular
+COMT	Catechol O-methyltransferase	Enzyme	Dopamine metabolism	Medium	30.0	Cytoplasm
+DRD2	Dopamine receptor D2	GPCR	Dopamine signaling	High	50.4	Membrane
+DRD3	Dopamine receptor D3	GPCR	Dopamine signaling	Medium	52.1	Membrane
+DRD4	Dopamine receptor D4	GPCR	Dopamine signaling	Low	48.9	Membrane
+GNAI1	G protein alpha inhibiting 1	G-protein	GPCR signaling	High	40.3	Membrane
+GNB3	G protein beta 3	G-protein	GPCR signaling	Medium	37.0	Membrane
+MAOA	Monoamine oxidase A	Enzyme	Neurotransmitter metabolism	High	59.7	Mitochondria
+SLC6A3	Dopamine transporter	Transporter	Dopamine reuptake	High	68.5	Membrane
+SLC6A4	Serotonin transporter	Transporter	Serotonin reuptake	Medium	70.3	Membrane
+KLHL12	Kelch-like protein 12	Regulatory	Protein degradation	Low	69.2	Cytoplasm

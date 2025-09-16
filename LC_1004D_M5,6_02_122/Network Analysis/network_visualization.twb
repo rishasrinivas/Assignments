@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook original-version='18.1' source-build='20181.18.0906.1659' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='enhanced_protein_nodes' inline='true' name='federated.1234567' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='enhanced_protein_nodes' name='textscan.1234567'>
+            <connection class='textscan' directory='/home/code/network-visualization' filename='enhanced_protein_nodes.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1234567' name='enhanced_protein_nodes.csv' table='[enhanced_protein_nodes#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='protein_id' ordinal='0' />
+            <column datatype='string' name='protein_name' ordinal='1' />
+            <column datatype='string' name='protein_type' ordinal='2' />
+            <column datatype='string' name='pathway' ordinal='3' />
+            <column datatype='string' name='expression_level' ordinal='4' />
+            <column datatype='real' name='molecular_weight' ordinal='5' />
+            <column datatype='string' name='cellular_location' ordinal='6' />
+            <column datatype='real' name='degree_centrality' ordinal='7' />
+            <column datatype='real' name='betweenness_centrality' ordinal='8' />
+            <column datatype='real' name='closeness_centrality' ordinal='9' />
+            <column datatype='real' name='eigenvector_centrality' ordinal='10' />
+          </columns>
+        </relation>
+      </connection>
+    </datasource>
+    <datasource caption='protein_interactions' inline='true' name='federated.5678901' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='protein_interactions' name='textscan.5678901'>
+            <connection class='textscan' directory='/home/code/network-visualization' filename='protein_interactions.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.5678901' name='protein_interactions.csv' table='[protein_interactions#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='node1' ordinal='0' />
+            <column datatype='string' name='node2' ordinal='1' />
+            <column datatype='string' name='node1_accession' ordinal='2' />
+            <column datatype='string' name='node2_accession' ordinal='3' />
+            <column datatype='real' name='score' ordinal='4' />
+            <column datatype='string' name='interaction_type' ordinal='5' />
+          </columns>
+        </relation>
+      </connection>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Network Overview'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='enhanced_protein_nodes' name='federated.1234567' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1234567'>
+            <column datatype='real' name='[degree_centrality]' role='measure' type='quantitative' />
+            <column datatype='string' name='[protein_id]' role='dimension' type='nominal' />
+            <column datatype='string' name='[protein_type]' role='dimension' type='nominal' />
+            <column-instance column='[protein_id]' derivation='None' name='[none:protein_id:nk]' pivot='key' type='nominal' />
+            <column-instance column='[degree_centrality]' derivation='Sum' name='[sum:degree_centrality:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[protein_type]' derivation='None' name='[none:protein_type:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf>
+            <column name='[federated.1234567].[sum:degree_centrality:qk]' />
+          </shelf>
+          <style />
+          <panes>
+            <pane selection-relaxation-option='selection-relaxation-allow'>
+              <view>
+                <breakdown value='auto' />
+              </view>
+              <mark class='Automatic' />
+              <encodings>
+                <color column='[federated.1234567].[none:protein_type:nk]' />
+                <size column='[federated.1234567].[sum:degree_centrality:qk]' />
+                <text column='[federated.1234567].[none:protein_id:nk]' />
+              </encodings>
+            </pane>
+          </panes>
+          <rows>[federated.1234567].[sum:degree_centrality:qk]</rows>
+          <cols>[federated.1234567].[none:protein_id:nk]</cols>
+        </view>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Network Overview'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1234567].[none:protein_type:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+  </windows>
+</workbook>

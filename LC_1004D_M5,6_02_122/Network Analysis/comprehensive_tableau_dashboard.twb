@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook original-version='18.1' source-build='20181.18.0906.1659' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='enhanced_protein_nodes' inline='true' name='federated.1234567' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='enhanced_protein_nodes' name='textscan.1234567'>
+            <connection class='textscan' directory='/home/code/network-visualization' filename='enhanced_protein_nodes.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1234567' name='enhanced_protein_nodes.csv' table='[enhanced_protein_nodes#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='protein_id' ordinal='0' />
+            <column datatype='string' name='protein_name' ordinal='1' />
+            <column datatype='string' name='protein_type' ordinal='2' />
+            <column datatype='string' name='pathway' ordinal='3' />
+            <column datatype='string' name='expression_level' ordinal='4' />
+            <column datatype='real' name='molecular_weight' ordinal='5' />
+            <column datatype='string' name='cellular_location' ordinal='6' />
+            <column datatype='real' name='degree_centrality' ordinal='7' />
+            <column datatype='real' name='betweenness_centrality' ordinal='8' />
+            <column datatype='real' name='closeness_centrality' ordinal='9' />
+            <column datatype='real' name='eigenvector_centrality' ordinal='10' />
+          </columns>
+        </relation>
+        <aliases enabled='yes' />
+        <column caption='Protein ID' datatype='string' name='[protein_id]' role='dimension' type='nominal' />
+        <column caption='Protein Name' datatype='string' name='[protein_name]' role='dimension' type='nominal' />
+        <column caption='Protein Type' datatype='string' name='[protein_type]' role='dimension' type='nominal' />
+        <column caption='Pathway' datatype='string' name='[pathway]' role='dimension' type='nominal' />
+        <column caption='Expression Level' datatype='string' name='[expression_level]' role='dimension' type='nominal' />
+        <column caption='Molecular Weight (kDa)' datatype='real' name='[molecular_weight]' role='measure' type='quantitative' />
+        <column caption='Cellular Location' datatype='string' name='[cellular_location]' role='dimension' type='nominal' />
+        <column caption='Degree Centrality' datatype='real' name='[degree_centrality]' role='measure' type='quantitative' />
+        <column caption='Betweenness Centrality' datatype='real' name='[betweenness_centrality]' role='measure' type='quantitative' />
+        <column caption='Closeness Centrality' datatype='real' name='[closeness_centrality]' role='measure' type='quantitative' />
+        <column caption='Eigenvector Centrality' datatype='real' name='[eigenvector_centrality]' role='measure' type='quantitative' />
+        <column caption='Hub Classification' datatype='string' name='[Calculation_1234567890]' role='dimension' type='nominal'>
+          <calculation class='tableau' formula='IF [degree_centrality] > 0.5 THEN "Hub" ELSE "Non-Hub" END' />
+        </column>
+        <column caption='Centrality Score' datatype='real' name='[Calculation_1234567891]' role='measure' type='quantitative'>
+          <calculation class='tableau' formula='[degree_centrality] + [betweenness_centrality]' />
+        </column>
+      </connection>
+    </datasource>
+    <datasource caption='protein_interactions' inline='true' name='federated.5678901' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='protein_interactions' name='textscan.5678901'>
+            <connection class='textscan' directory='/home/code/network-visualization' filename='protein_interactions.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.5678901' name='protein_interactions.csv' table='[protein_interactions#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='node1' ordinal='0' />
+            <column datatype='string' name='node2' ordinal='1' />
+            <column datatype='string' name='node1_accession' ordinal='2' />
+            <column datatype='string' name='node2_accession' ordinal='3' />
+            <column datatype='real' name='score' ordinal='4' />
+            <column datatype='string' name='interaction_type' ordinal='5' />
+          </columns>
+        </relation>
+        <aliases enabled='yes' />
+        <column caption='Source Protein' datatype='string' name='[node1]' role='dimension' type='nominal' />
+        <column caption='Target Protein' datatype='string' name='[node2]' role='dimension' type='nominal' />
+        <column caption='Interaction Score' datatype='real' name='[score]' role='measure' type='quantitative' />
+        <column caption='Interaction Type' datatype='string' name='[interaction_type]' role='dimension' type='nominal' />
+        <column caption='Interaction Strength' datatype='string' name='[Calculation_5678901234]' role='dimension' type='nominal'>
+          <calculation class='tableau' formula='IF [score] > 0.8 THEN "Strong" ELSEIF [score] > 0.6 THEN "Medium" ELSE "Weak" END' />
+        </column>
+      </connection>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Network Overview'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='enhanced_protein_nodes' name='federated.1234567' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1234567'>
+            <column datatype='real' name='[degree_centrality]' role='measure' type='quantitative' />
+            <column datatype='string' name='[protein_id]' role='dimension' type='nominal' />
+            <column datatype='string' name='[protein_type]' role='dimension' type='nominal' />
+            <column datatype='real' name='[molecular_weight]' role='measure' type='quantitative' />
+            <column-instance column='[protein_id]' derivation='None' name='[none:protein_id:nk]' pivot='key' type='nominal' />
+            <column-instance column='[degree_centrality]' derivation='Sum' name='[sum:degree_centrality:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[protein_type]' derivation='None' name='[none:protein_type:nk]' pivot='key' type='nominal' />
+            <column-instance column='[molecular_weight]' derivation='Sum' name='[sum:molecular_weight:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf>
+            <column name='[federated.1234567].[sum:degree_centrality:qk]' />
+          </shelf>
+          <style>
+            <style-rule element='mark'>
+              <encoding attr='color' field='[federated.1234567].[none:protein_type:nk]' type='palette'>
+                <map to='#ff6b6b'>
+                  <bucket>GPCR</bucket>
+                </map>
+                <map to='#4ecdc4'>
+                  <bucket>Enzyme</bucket>
+                </map>
+                <map to='#45b7d1'>
+                  <bucket>Growth Factor</bucket>
+                </map>
+                <map to='#f9ca24'>
+                  <bucket>G-protein</bucket>
+                </map>
+                <map to='#6c5ce7'>
+                  <bucket>Transporter</bucket>
+                </map>
+                <map to='#a0522d'>
+                  <bucket>Regulatory</bucket>
+                </map>
+              </encoding>
+              <encoding attr='size' field='[federated.1234567].[sum:degree_centrality:qk]' type='quantitative' />
+            </style-rule>
+          </style>
+          <panes>
+            <pane selection-relaxation-option='selection-relaxation-allow'>
+              <view>
+                <breakdown value='auto' />
+              </view>
+              <mark class='Circle' />
+              <encodings>
+                <color column='[federated.1234567].[none:protein_type:nk]' />
+                <size column='[federated.1234567].[sum:degree_centrality:qk]' />
+                <text column='[federated.1234567].[none:protein_id:nk]' />
+                <tooltip column='[federated.1234567].[sum:molecular_weight:qk]' />
+              </encodings>
+            </pane>
+          </panes>
+          <rows>[federated.1234567].[sum:degree_centrality:qk]</rows>
+          <cols>[federated.1234567].[none:protein_id:nk]</cols>
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='show-empty-rows' value='true' />
+            <format attr='show-empty-columns' value='true' />
+          </style-rule>
+        </style>
+      </table>
+      <simple-id uuid='{12345678-1234-5678-9012-123456789012}' />
+    </worksheet>
+    <worksheet name='Centrality Analysis'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='enhanced_protein_nodes' name='federated.1234567' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1234567'>
+            <column datatype='real' name='[degree_centrality]' role='measure' type='quantitative' />
+            <column datatype='real' name='[betweenness_centrality]' role='measure' type='quantitative' />
+            <column datatype='real' name='[closeness_centrality]' role='measure' type='quantitative' />
+            <column datatype='real' name='[eigenvector_centrality]' role='measure' type='quantitative' />
+            <column datatype='string' name='[protein_id]' role='dimension' type='nominal' />
+            <column-instance column='[protein_id]' derivation='None' name='[none:protein_id:nk]' pivot='key' type='nominal' />
+            <column-instance column='[degree_centrality]' derivation='Sum' name='[sum:degree_centrality:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[betweenness_centrality]' derivation='Sum' name='[sum:betweenness_centrality:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[closeness_centrality]' derivation='Sum' name='[sum:closeness_centrality:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[eigenvector_centrality]' derivation='Sum' name='[sum:eigenvector_centrality:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf>
+            <column name='[federated.1234567].[sum:degree_centrality:qk]' />
+            <column name='[federated.1234567].[sum:betweenness_centrality:qk]' />
+            <column name='[federated.1234567].[sum:closeness_centrality:qk]' />
+            <column name='[federated.1234567].[sum:eigenvector_centrality:qk]' />
+          </shelf>
+          <panes>
+            <pane selection-relaxation-option='selection-relaxation-allow'>
+              <view>
+                <breakdown value='auto' />
+              </view>
+              <mark class='Bar' />
+              <encodings>
+                <color column='[federated.1234567].[none:protein_id:nk]' />
+              </encodings>
+            </pane>
+          </panes>
+          <rows>[federated.1234567].[none:protein_id:nk]</rows>
+          <cols>
+            [federated.1234567].[sum:degree_centrality:qk]
+            [federated.1234567].[sum:betweenness_centrality:qk]
+            [federated.1234567].[sum:closeness_centrality:qk]
+            [federated.1234567].[sum:eigenvector_centrality:qk]
+          </cols>
+        </view>
+        <style />
+      </table>
+      <simple-id uuid='{12345678-1234-5678-9012-123456789013}' />
+    </worksheet>
+    <worksheet name='Interaction Matrix'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='protein_interactions' name='federated.5678901' />
+          </datasources>
+          <datasource-dependencies datasource='federated.5678901'>
+            <column datatype='string' name='[node1]' role='dimension' type='nominal' />
+            <column datatype='string' name='[node2]' role='dimension' type='nominal' />
+            <column datatype='real' name='[score]' role='measure' type='quantitative' />
+            <column datatype='string' name='[interaction_type]' role='dimension' type='nominal' />
+            <column-instance column='[node1]' derivation='None' name='[none:node1:nk]' pivot='key' type='nominal' />
+            <column-instance column='[node2]' derivation='None' name='[none:node2:nk]' pivot='key' type='nominal' />
+            <column-instance column='[score]' derivation='Sum' name='[sum:score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[interaction_type]' derivation='None' name='[none:interaction_type:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf>
+            <column name='[federated.5678901].[sum:score:qk]' />
+          </shelf>
+          <style>
+            <style-rule element='mark'>
+              <encoding attr='color' field='[federated.5678901].[sum:score:qk]' type='quantitative'>
+                <color-palette custom='false' name='Orange-Blue Diverging' type='ordered-diverging' />
+              </encoding>
+              <encoding attr='shape' field='[federated.5678901].[none:interaction_type:nk]' type='palette' />
+            </style-rule>
+          </style>
+          <panes>
+            <pane selection-relaxation-option='selection-relaxation-allow'>
+              <view>
+                <breakdown value='auto' />
+              </view>
+              <mark class='Square' />
+              <encodings>
+                <color column='[federated.5678901].[sum:score:qk]' />
+                <shape column='[federated.5678901].[none:interaction_type:nk]' />
+                <size column='[federated.5678901].[sum:score:qk]' />
+              </encodings>
+            </pane>
+          </panes>
+          <rows>[federated.5678901].[none:node2:nk]</rows>
+          <cols>[federated.5678901].[none:node1:nk]</cols>
+        </view>
+        <style />
+      </table>
+      <simple-id uuid='{12345678-1234-5678-9012-123456789014}' />
+    </worksheet>
+    <worksheet name='Protein Properties'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='enhanced_protein_nodes' name='federated.1234567' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1234567'>
+            <column datatype='real' name='[molecular_weight]' role='measure' type='quantitative' />
+            <column datatype='string' name='[expression_level]' role='dimension' type='nominal' />
+            <column datatype='string' name='[cellular_location]' role='dimension' type='nominal' />
+            <column datatype='string' name='[protein_type]' role='dimension' type='nominal' />
+            <column-instance column='[molecular_weight]' derivation='Sum' name='[sum:molecular_weight:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[expression_level]' derivation='None' name='[none:expression_level:nk]' pivot='key' type='nominal' />
+            <column-instance column='[cellular_location]' derivation='None' name='[none:cellular_location:nk]' pivot='key' type='nominal' />
+            <column-instance column='[protein_type]' derivation='None' name='[none:protein_type:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf>
+            <column name='[federated.1234567].[sum:molecular_weight:qk]' />
+          </shelf>
+          <panes>
+            <pane selection-relaxation-option='selection-relaxation-allow'>
+              <view>
+                <breakdown value='auto' />
+              </view>
+              <mark class='Bar' />
+              <encodings>
+                <color column='[federated.1234567].[none:protein_type:nk]' />
+                <size column='[federated.1234567].[none:expression_level:nk]' />
+                <shape column='[federated.1234567].[none:cellular_location:nk]' />
+              </encodings>
+            </pane>
+          </panes>
+          <rows>[federated.1234567].[none:protein_type:nk]</rows>
+          <cols>[federated.1234567].[sum:molecular_weight:qk]</cols>
+        </view>
+        <style />
+      </table>
+      <simple-id uuid='{12345678-1234-5678-9012-123456789015}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Bioinformatics Network Dashboard'>
+      <style />
+      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
+      <zones>
+        <zone h='100000' id='4' type='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98000' id='5' param='[federated.1234567].[none:protein_type:nk]' type='filter' w='12000' x='0' y='1000'>
+            <zone h='98000' id='6' type='layout-basic' w='88000' x='12000' y='1000'>
+              <zone h='48000' id='7' type='layout-basic' w='88000' x='12000' y='1000'>
+                <zone h='48000' id='8' name='Network Overview' w='44000' x='12000' y='1000' />
+                <zone h='48000' id='9' name='Centrality Analysis' w='44000' x='56000' y='1000' />
+              </zone>
+              <zone h='48000' id='10' type='layout-basic' w='88000' x='12000' y='50000'>
+                <zone h='48000' id='11' name='Interaction Matrix' w='44000' x='12000' y='50000' />
+                <zone h='48000' id='12' name='Protein Properties' w='44000' x='56000' y='50000' />
+              </zone>
+            </zone>
+          </zone>
+          <zone h='1000' id='13' type='title' w='100000' x='0' y='0' />
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='14' type='layout-flow' w='100000' x='0' y='0'>
+              <zone h='1000' id='15' type='title' w='100000' x='0' y='0' />
+              <zone h='12000' id='16' param='[federated.1234567].[none:protein_type:nk]' type='filter' w='100000' x='0' y='1000' />
+              <zone h='50000' id='17' name='Network Overview' w='100000' x='0' y='13000' />
+              <zone h='50000' id='18' name='Centrality Analysis' w='100000' x='0' y='63000' />
+              <zone h='50000' id='19' name='Interaction Matrix' w='100000' x='0' y='113000' />
+              <zone h='50000' id='20' name='Protein Properties' w='100000' x='0' y='163000' />
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{12345678-1234-5678-9012-123456789016}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='dashboard' name='Bioinformatics Network Dashboard'>
+      <viewpoints />
+      <active id='-1' />
+      <simple-id uuid='{12345678-1234-5678-9012-123456789017}' />
+    </window>
+  </windows>
+</workbook>
