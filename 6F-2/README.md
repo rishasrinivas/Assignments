@@ -34,6 +34,7 @@ src/                   # Source code for data processing, training, and evaluati
 generate_final_report.py # Script to compile final report
 requirements.txt       # Python dependencies
 README.md              # This file
+Dockerfile
 ```
 
 ## Setup
@@ -104,6 +105,6 @@ Upon successful execution, the pipeline generates the following key outputs:
 *   **`work/models/`**: Stores the trained machine learning model (`best_model.joblib`) and training metrics (`metrics.json`).
 *   **`work/results/`**: Holds the evaluation metrics (`evaluation_metrics.json`), visualization plots (`confusion_matrix.png`, `roc_curve.png`), and the final generated report (`final_report.md`).
 
-## License
+## Contributors
 
-[Specify your license here, e.g., MIT License]
+Risha Reddy
